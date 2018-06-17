@@ -1,407 +1,437 @@
-Sign,H1 FingerSelection,H1 Aperture,H1 Curve,H1 Bent,H1 Facing,H1 Focus,H1 Width,Dynamic Orientation,Location,Plane,Settings,Path,H2 FingerSelection,H2 Aperture,H2 Curve,H2 Bent,H2 Width,H2 Facing,H2 Focus,Manner
-скучать,3-rd,closed,curved,straight,ulnar,ulnar,,,space,horisontal,high-low,sraight,,,,,,,,symmetrical
-мониторить,"1-st, 2-nd",,straight,straight,palm,"palm, ulnar, radial",wide,,space,horisontal,"contra-ipsi, ipsi-contra, high-low","sraight, sraight",,,,,,,,"repeated, symmetrical"
-двигаться,"1-st, 2-nd, 3-rd, 4-th",,straight,bent-straight,palm,"ulnar, radial",wide,,space,horisontal,"contra-ipsi, ipsi-contra",sraight,,,,,,,,"repeated, symmetrical, alternating"
-мямлить,"1-st, 2-nd",open-closed,straight,bent,radial,,pointed,,head-low,,,,,,,,,,,repeated
-должен,1-st,,straight,straight,palm,palm,,,hand-palm,horisontal,far-near,arc,,,,,,,,
-должен,1-st,,straight,straight,palm,palm,,,hand-palm,horisontal,far-near,arc,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-называть,1-st,,straight,straight,tips,radial,,,"hand-classifier, space",horisontal,low-high,sraight,thumb,,straight,straight,,ulnar,,"repeated, crossed"
-рассказывать,2-nd,closed-open,curved,straight,tips,ulnar,,,space,parallel,contra-ipsi,sraight,,,,,,,,"repeated, symmetrical"
-тошнить,"1-st, 2-nd, 3-rd, 4-th",,straight,bent,tips,radial,,,trunk,,low-high,sraight,,,,,,,,"repeated, symmetrical"
-игнорировать,"1-st, 2-nd, 3-rd, 4-th","open-closed, closed-open",straight,bent,radial,palm,pointed,,head-side,,near-far,arc,,,,,,,,
-кивать,,,,,tips,palm,,,space,parallel,high-low,iconic,,,,,,,,repeated
-записывать,"1-st, 2-nd, 3-rd, 4-th",closed-open,straight,bent,palm,,pointed,,hand-palm,horisontal,,,,,,,,back,,repeated
-оскорблять,1-st,,straight-curved,straight,tips,back,,,head-low,,near-far,sraight,,,,,,,,"repeated, symmetrical, alternating"
-оскорбить,1-st,open-closed,straight-curved,straight-bent,tips,back,,,head-low,,near-far,sraight,,,,,,,,tense
-предлагать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,,radial,pointed,neutral-supine,trunk,,"low-high, near-far",arc,,,,,,,,symmetrical
-пропустить,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,palm,,pointed,,space,horisontal,,,,,,,,,,tense
-откупорить,"thumb, 1-st",,curved,straight,tips,radial,,,hand-classifier,horisontal,near-far,arc,,,,,,ulnar,,tense
-"душить, подавлять","1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,palm,,pointed,,neck,,,,,,,,,,,"symmetrical, crossed"
-ориентироваться,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,tips,pointed,neutral-back,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,"repeated, laceration"
-происходить,1-st,closed-open,curved-straight,bent-straight,palm,"tips, radial",,,hand-back,parallel,"high-low, contra-ipsi",sraight,,,,,,back,,repeated
-должен,1-st,,straight,straight,palm,palm,,,hand-palm,horisontal,"far-near, high-low",arc,,,,,,back,,tense
-перехлестывать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,palm,pointed,,hand-back,horisontal,far-near,sraight,,,,,,,,
-нападать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,wide,,space,horisontal,"x-y, proxi-distal",arc,,,,,,,,symmetrical
-шлепать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,palm,pointed,,"virtual object, space",sagittal,far-near,arc,,,,,,,,repeated
-миновать,thumb,,straight,straight,ulnar,"palm, tips",,,"hand-classifier, space",horisontal,proxi-distal,sraight,thumb,,,,,ulnar,,symmetrical
-пройти мимо,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,ulnar,wide,,hand-palm,sagittal,proxi-distal,sraight,,,,,,,,symmetrical
-платить,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight,bent,back,tips,,,hand-palm,horisontal,far-near,sraight,,,,,,,,
-платить.кредиткой,"1-st, 2-nd, 3-rd, 4-th",closed,straight,bent,tips,ulnar,pointed,,space,horisontal,contra-ipsi,sraight,,,,,,,,
-клюнуть,"1-st, thumb",,curved,straight,tips,tips,,,space,sagittal,far-near,sraight,,,,,,,,tense
-мочиться,1-st,,straight,straight,root,palm,,,trunk,,high-low,sraight,,,,,,,,repeated
-"видеть, взглянуть","1-st, 1-st, 2-nd",,"straight, straight","straight, straight","tips, tips","tips, tips",wide,,"head-mid, head-mid, space",horisontal,"far-near, near-far, proxi-distal","sraight, arc",,,,,,,,
-наказывать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,radial,pointed,,hand-back,parallel,low-high,sraight,,,,,,back,,repeated
-вмешиваться,1-st,,straight,straight,"tips, radial",tips,,,"head-mid, hand-palm",sagittal,"far-near, proxi-distal","sraight, sraight",,,,,,,,
-выполнять,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,
-уговаривать,"1-st, 4-th",,straight,straight,ulnar,tips,,,space,sagittal,"proxi-distal, high-low",sraight,,,,,,,,"repeated, symmetrical, alternating"
-фотографировать,"1-st, 2-nd, 3-rd, 4-th",open,straight-curved,straight,root,"back, ulnar",wide,,space,horisontal,"far-near, contra-ipsi","sraight, sraight",,,,,,,,repeated
-протыкать,"1-st, 4-th",,straight,straight,tips,tips,,prone-neutral,hand-palm,sagittal,far-near,sraight,,,,,,palm,,tense
-собирать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,ulnar,palm,wide-pointed,,hand-palm,horisontal,"ipsi-contra, far-near",arc,,,,,,,,
-поднимать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,tips,root,pointed,,space,horisontal,low-high,sraight,,,,,,,,
-проколоть,1-st,,straight,straight,tips,tips,,prone-neutral,hand-palm,sagittal,far-near,sraight,,,,,,,,
-защипнуть,1-st,open-closed,straight-curved,straight,tips,tips,,prone-neutral,space,horisontal,proxi-distal,sraight,,,,,,,,
-писать,1-st,,straight,straight,root,tips,,,trunk,,"near-far, high-low",sraight,,,,,,,,repeated
-играть,"1-st, 2-nd, 3-rd, 4-th",closed,straight,bent,back,tips,pointed,,space,horisontal,low-high,sraight,,,,,,,,"repeated, symmetrical, alternating"
-сядь,1-st,,straight-curved,straight,palm,tips,pointed,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical
-отказываться,"1-st, 2-nd, 3-rd, 4-th",,straight,bent-straight,palm,tips,pointed,,hand-palm,,proxi-distal,sraight,,,,,,,,tense
-сокращать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,,palm,,pointed,,space,parallel,,,,,,,,,,symmetrical
-отменить,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,,ulnar,pointed,,space,parallel,"high-low, ipsi-contra, contra-ipsi",sraight,,,,,,,,
-восхвалять,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,,palm,wide,,space,parallel,low-high,vawe,,,,,,,,symmetrical
-размещать,"1-st, 2-nd, 3-rd, 4-th",open-closed,,,palm,tips,wide-pointed,,space,parallel,far-near,arc,,,,,,,,"repeated, symmetrical, alternating"
-сопровождать,1-st,,straight,straight,root,ulnar,,,space,horisontal,proxi-distal,sraight,,,,,,,,symmetrical
-обвинять,"1-st, 2-nd, 3-rd, 4-th",closed,,,root,tips,pointed,,"hand-back, space",horisontal,x-y,sraight,,,,,,palm,,"repeated, tense"
-отложить,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,"palm, ulnar","palm, back",pointed,,"virtual object, space",horisontal,ipsi-contra,sraight,,,,,,,,symmetrical
-продвигать,,,,,ulnar,radial,,neutral-supine,space,horisontal,"low-high, proxi-distal",sraight,,,,,,,,repeated
-влиять,"1-st, 2-nd, 3-rd, 4-th",closed,straight-curved,bent,ulnar,back,pointed,,space,horisontal,x-y,sraight,,,,,,,,symmetrical
-ухудшать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,radial,palm,pointed,,"hand-palm, space",sagittal,high-low,sraight,,,,,,,,
-предупреждать,1-st,,straight-curved,,tips,back,,,head-high,,near-far,sraight,,,,,,,,
-облегчать,"1-st, 2-nd, 3-rd, 4-th",,,straight-bent,tips,palm,pointed,,head-low,,contra-ipsi,sraight,,,,,,,,symmetrical
-размещать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight,,palm,tips,wide-pointed,,space,horisontal,far-near,arc,,,,,,,,"symmetrical, alternating, repeated"
-разрешать,1-st,closed,curved,,ulnar,tips,,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical
-изменять,"1-st, 2-nd",,straight,straight,palm,,wide,,hand-palm,horisontal,,circle-clock,,,,,,,,"symmetrical, repeated"
-изменять к лучшему,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,radial,back,pointed,,hand-palm,sagittal,low-high,sraight,,,,,,back,,laceration
-объявлять,1-st,,straight-curved,,tips,back,,,head-high,,near-far,arc,,,,,,,,symmetrical
-аннулировать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,tips,ulnar,pointed,,space,parallel,"high-low, ipsi-contra, high-low, contra-ipsi",sraight,,,,,,,,
-извиняться,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,root,wide,,hand-palm,horisontal,contra-ipsi,sraight,,,,,,back,,alternating
-обращаться к,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,radial,pointed,,head-low,horisontal,near-far,sraight,,,,,,,,symmetrical
-аплодировать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,wide,prone-supine,space,sagittal,low-high,sraight,,,,,,,,"repeated, symmetrical, alternating"
-"думать, проникать","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, straight","palm, palm","tips, tips",wide,,"head-high, hand-palm",sagittal,"far-near, proxi-distal","sraight, sraight",,,,,,,,symmetrical
-возникать,1-st,closed-open,curved-straight,,palm,tips,,,hand-narrow,horisontal,low-high,sraight,,,,,,palm,,tense
-арестовывать,1-st,,straight,straight,palm,ulnar,,prone-neutral,"virtual object, space",horisontal,proxi-distal,arc,,,,,,,,symmetrical
-вознестись,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,back,palm,pointed,,space,horisontal,low-high,vawe,,,,,,,,symmetrical
-спрашивать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,pointed,,head-low,,near-far,sraight,,,,,,,,
-собирать,"1-st, 2-nd, 3-rd, 4-th",closed-open,curved-straight,,palm,tips,pointed-wide,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical
-поручать,1-st,closed-open,curved-straight,,palm,tips,,,"hand-classifier, space",horisontal,x-y,sraight,,,,,,palm,,tense
-поручать,1-st,closed-open,curved-straight,,palm,tips,,,"hand-classifier, space",horisontal,x-y,sraight,,,,,,palm,,tense
-,,,,,,,,,,,,,,,,,,,,
-"думать, наверное","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, straight","palm, back","tips, back",pointed,,"head-high, hand-palm",horisontal,"far-near, far-near","sraight, sraight",,,,,,back,,repeated
-прикладывать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,back,ulnar,pointed,,hand-classifier,horisontal,near-far,sraight,"1-st, 2-nd, 3-rd, 4-th",open,straight,straight,pointed,back,,repeated
-нападать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,wide,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical
-посещать,"1-st, 2-nd",,curved,,palm,tips,wide,,"hand-back, space",horisontal,x-y,arc,,,,,,,,
-"видно, привлекать","1-st, 1-st, 2-nd, 3-rd, 4-th",,straight,"bent, straight-bent","palm, palm","tips, root",wide,,"head-high, trunk",,"far-near, far-near","sraight, sraight",,,,,,,,"repeated, symmetrical"
-"dem, быть пригодным","2-nd, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","bent, straight","palm, back","tips, tips","pointed, pointed",,"trunk, space",horisontal,"far-near, proxi-distal","sraight, arc",,,,,,,,"symmetrical, symmetrical"
-мстить,"1-st, 2-nd",,straight,straight,ulnar,back,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,"symmetrical, tense"
-избегать,"1-st, 2-nd",,curved,,tips,back,wide,prone-neutral,space,horisontal,contra-ipsi,sraight,,,,,,,,"symmetrical, repeated"
-ожидать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,radial,root,pointed,,trunk,,high-low,sraight,,,,,,,,repeated
-просыпаться,1-st,closed-open,straight,bent,radial,,,,head-high,,,,,,,,,,,symmetrical
-печь,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,back,tips,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,"repeated, symmetrical"
-запрещать,1-st,,,,ulnar,,,,hand-palm,horisontal,far-near,sraight,,,,,,back,,tense
-крестить,"1-st, 2-nd",,straight,straight,palm,palm,pointed,,space,horisontal,high-low,sraight,,,,,,,,"repeated, symmetrical, crossed"
-разрешить,1-st,closed,curved,,ulnar,tips,,,space,horisontal,x-y,arc,,,,,,,,symmetrical
-называть,1-st,,straight,straight,tips,radial,,,"hand-classifier, space",horisontal,low-high,sraight,thumb,,,,,ulnar,,repeated
-терпеть,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,root,ulnar,pointed,,trunk,,high-low,sraight,,,,,,,,tense
-клянчить,"1-st, 2-nd, 3-rd, 4-th",,straight,bent,back,tips,pointed,,space,horisontal,"proxi-distal, ipsi-contra",vawe,,,,,,,,repeated
-начинать,1-st,,straight,straight,radial,tips,,,"hand-palm, space",parallel,low-high,sraight,,,,,,palm,,
-"принадлежать, ему","1-st, 2-nd, 3-rd, 4-th, 1-st",,"straight, straight","straight, straight",palm,tips,pointed,prone-neutral,"space, space","horisontal, horisontal",x-y,sraight,,,,,,,,"symmetrical, repeated"
-пристегиваться,1-st,open,curved,,palm,tips,,,trunk,,ipsi-contra,sraight,,,,,,,,"symmetrical, repeated"
- спорить,1-st,,straight,straight,tips,radial,,,space,sagittal,low-high,sraight,,,,,,,,"symmetrical, alternating, repeated"
-предавать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,,,,prone-neutral,head-mid,,,,,,,,,,,
-ездить на велосипеде,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,tips,wide,,space,horisontal,"x-y, high-low",sraight,,,,,,,,"symmetrical, repeated"
-кусать,"1-st, 2-nd, 3-rd, 4-th",open-closed,curved,,back,tips,wide,,head-low,,,,,,,,,,,tense
-"вина, dem","1-st, 2-nd, 1-st",closed,"straight, straight","bent, straight",palm,"tips, tips",pointed,neutral-prone,"head-mid, space",horisontal,"near-far, x-y","arc, sraight",,,,,,,,tense
-гореть,"1-st, 2-nd, 3-rd",,straight,straight,root,tips,wide,,space,horisontal,low-high,vawe,,,,,,,,"symmetrical, alternating"
-смешивать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,tips,,wide,,space,horisontal,,"circle-clock, circle-counterclock",,,,,,,,"symmetrical, alternating, repeated"
-мигать,"1-st, 2-nd",,straight,straight,palm,,wide-pointed,,head-high,,,,,,,,,,,repeated
-блокировка,,,,,palm,palm,,,hand-back,horisontal,far-near,sraight,,,,,,,,symmetrical
-взрывать,,,,,palm,radial,,,space,parallel,"contra-ipsi, low-high",sraight,,,,,,,,"symmetrical, tense"
-задувать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight,bent,root,tips,wide-pointed,,space,horisontal,high-low,vawe,,,,,,,,symmetrical
-покраснеть,"1-st, 4-th",,straight,straight,tips,back,,,head,,low-high,sraight,,,,,,,,
-бомбить,1-st,,straight,straight,radial,back,,,"hand-classifier, space",horisontal,"low-high, contra-ipsi",,"1-st, 4-th",,straight,straight,,palm,tips,repeated
-отскакивать,"1-st, 2-nd",,straight-curved,straight,tips,root,wide,,hand-palm,horisontal,near-far,sraight,,,,,,back,,repeated
-ограничивать,1-st,,straight,straight,ulnar,palm,,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical
-сгибать,,,,,,ulnar,,prone-neutral,space,sagittal,high-low,,,,,,,,,symmetrical
-поклониться,,,,,root,,,neutral-forward,space,horisontal,,,,,,,,,,
-хвастаться,thumb,,straight,straight,palm,tips,,,trunk,,low-high,sraight,,,,,,,,repeated
-расстаться,thumb,,straight,straight,ulnar,back,,,space,horisontal,contra-ipsi,sraight,,,,,,,,symmetrical
-дышать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,back,pointed,,trunk,,near-far,sraight,,,,,,,,biderectional
-приносить,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,"back, palm","ulnar, radial",pointed,,"space, virtual object",horisontal,"ipsi-contra, contra-ipsi",arc,,,,,,,,symmetrical
-,1-st,,straight,straight,palm,ulnar,,,space,parallel,high-low,arc,,,,,,,,symmetrical
-,,,,,,,,,,,,,,,,,,,,
-строить,"1-st, 2-nd",,straight,straight,palm,back,pointed,,space,horisontal,low-high,sraight,,,,,,,,"symmetrical, alternating, repeated, crossed, laceration"
-запугивать,1-st,,straight,straight,ulnar,tips,,,space,horisontal,proxi-distal,sraight,,,,,,,,"symmetrical, repeated"
-гореть,"1-st, 2-nd, 3-rd",,straight,straight,root,tips,wide,,space,horisontal,low-high,vawe,,,,,,,,"symmetrical, alternating"
-разрыдаться,"1-st, 2-nd, 3-rd, 4-th",closed-open,curved-straight,,palm,tips,pointed-wide,,head-high,,near-far,sraight,,,,,,,,"symmetrical, tense"
-хоронить,"1-st, 2-nd, 3-rd, 4-th",,curved,bent,"palm, back","back, palm",pointed,,space,horisontal,high-low,sraight,,,,,,,,"symmetrical, crossed"
-покупать,"1-st, 2-nd, 3-rd, 4-th",closed,straight,bent,tips,back,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,repeated
-требовать,1-st,,straight,straight,tips,tips,,,space,horisontal,distal-proxi,arc,,,,,,,,tense
-не мочь,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,radial,radial,pointed,,trunk,,far-near,sraight,,,,,,,,
-не мочь,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,radial,radial,pointed,,trunk,,far-near,sraight,,,,,,,,
-капитулировать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,,back,pointed,,space,parallel,iconic,iconic,,,,,,,,symmetrical
-опрокидывать,,open-closed,straight,bent,palm,,wide-pointed,prone-supine,"virtual object, space",horisontal,,,,,,,,,,symmetrical
-"забота, multiply","1-st, 2-nd, 3-rd, 4-th",,curved,bent,palm,palm,wide,,"virtual object, space, space","horisontal, parallel","far-near, ipsi-contra","arc, sraight",,,,,,,,"symmetrical, repeated"
-ласкать,"1-st, 2-nd, 3-rd, 4-th",,,straight-bent,tips,palm,,,hand-back,horisontal,distal-proxi,sraight,,,,,,palm,,repeated
-нести,,,,,back,root,,,"virtual object, space",horisontal,low-high,sraight,,,,,,,,repeated
-швырять,"1-st, 2-nd, 3-rd, 4-th",closed-open,,,palm,tips,pointed-wide,forward-neutral,"space, virtual object",horisontal,proxi-distal,sraight,,,,,,,,tense
-менять,"1-st, 2-nd",,straight,straight,,,wide,"prone-supine, supine-prone",space,,,,,,,,,,,"symmetrical, crossed"
-"голос, музыка","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, straight","tips, palm","tips, radial",pointed,,"neck, space",parallel,"far-near, ipsi-contra","sraight, arc",,,,,,,,"symmetrical, crossed, repeated, alternating, biderectional"
-преследовать,thumb,,,,"tips, ulnar",tips,,,"hand-classifier, space",horisontal,far-near,spiral,thumb,,,,,ulnar,,symmetrical
-болтать,"1-st, 2-nd, 3-rd, 4-th",,straight,bent-straight,root,tips,wide,,"head-low, space",horisontal,x-y,,,,,,,,,"repeated, symmetrical, alternating"
-обманывать,"1-st, 4-th",,straight,straight,palm,tips,,,"hand-narrow, space",horisontal,x-y,sraight,,,,,,,,
-выбирать,1-st,closed,curved,,tips,back,,,"hand-classifier, space",sagittal,distal-proxi,sraight,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,pointed,back,,repeated
-чистить,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,"ulnar, radial",pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,"repeated, biderectional"
-очищать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,ulnar,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,tense
-карабкаться,"1-st, 2-nd, 3-rd, 4-th",,curved,straight,palm,tips,wide,,"virtual object, space",parallel,low-high,sraight,,,,,,,,"symmetrical, repeated, alternating"
-совпадать,1-st,,straight,straight,palm,tips,,,space,parallel,ipsi-contra,sraight,,,,,,,,"symmetrical, repeated"
-рухнуть,"1-st, 2-nd",,straight,straight,back,tips,wide,prone-supine,hand-palm,horisontal,far-near,circle-clock,,,,,,,,
-приходить,"1-st, 2-nd",,curved,straight,palm,tips,wide,supine-prone,hand-narrow,parallel,far-near,arc,,,,,,,,
-согласиться,"thumb, 1-st",,straight,straight,ulnar,tips,,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical
-начинать,1-st,,straight,straight,radial,tips,,,hand-palm,parallel,low-high,sraight,,,,,,,,
-совершать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,ulnar,pointed,,hand-palm,horisontal,far-near,sraight,,,,,,back,,tense
-общаться,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,"palm, back",pointed,,space,horisontal,distal-proxi,sraight,,,,,,,,"repeated, symmetrical, alternating, biderectional"
-сопоставлять,1-st,,straight,straight,back,tips,,,space,parallel,"ipsi-contra, high-low",sraight,,,,,,,,"symmetrical, repeated"
-"думать, ясно","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, straight","palm, palm","tips, root",wide,,"head-high, virtual object, space",horisontal,"far-near, distal-proxi","sraight, sraight",,,,,,,,"symmetrical, tense"
-"учить, проникать","1-st, 2-nd, 1-st, 2-nd, 3-rd, 4-th",closed,"straight, straight","bent, straight","radial, palm","tips, tips","pointed, wide",,"head-high, hand-palm",sagittal,"ipsi-contra, proxi-distal","arc, sraight",,,,,,,,"repeated, symmetrical, laceration"
-концентрироваться,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,pointed,,head,,near-far,sraight,,,,,,,,"symmetrical, tense"
-беспокоиться,"1-st, 2-nd, 3-rd, 4-th",open,curved,straight,palm,radial,pointed,,trunk,,low-high,sraight,,,,,,,,"repeated, symmetrical, alternating"
-судить,1-st,closed,curved,,ulnar,radial,,,space,horisontal,low-high,sraight,,,,,,,,"repeated, symmetrical, alternating, biderectional"
-подтверждать,,,,,ulnar,ulnar,,,hand-palm,horisontal,near-far,sraight,,,,,,,,
-"здравствуйте, давать","1-st, 2-nd, 3-rd, 4-th, 1-st, 2-nd, 3-rd, 4-th",open,straight,straight,"tips, ulnar","radial, radial","pointed, pointed",,"trunk, trunk",,"low-high, near-far","sraight, arc",,,,,,,,"repeated, symmetrical, symmetrical"
-соединять,1-st,,curved,straight,palm,tips,,supine-prone,"hand-classifier, space",horisontal,far-near,arc,1-st,,curved,straight,,back,,"symmetrical, crossed"
-захватывать,"1-st, 2-nd, 3-rd, 4-th",open-closed,curved,bent,palm,palm,wide-pointed,,space,horisontal,high-low,sraight,,,,,,,,"symmetrical, tense"
-освящать,"1-st, 2-nd, 3-rd",closed-open,curved-straight,bent-straight,palm,ulnar,pointed-wide,,space,parallel,"contra-ipsi, ",arc,,,,,,,,symmetrical
-сберегать,"1-st, 2-nd, 3-rd, 4-th",open,curved,bent,palm,palm,wide,,virtual object,horisontal,far-near,arc,,,,,,,,"symmetrical, repeated"
-устанавливать,"thumb, 1-st, 2-nd",,straight,straight,palm,palm,wide,,hand-palm,horisontal,far-near,spiral,,,,,,back,,tense
-сдерживать,,,,,,,,,trunk,,"high-low, far-near",sraight,,,,,,,,symmetrical
-строить,"1-st, 2-nd",,straight,straight,palm,back,pointed,,space,horisontal,low-high,arc,,,,,,,,"symmetrical, repeated, alternating, crossed"
-консультировать,1-st,closed,curved,straight,ulnar,tips,,,space,horisontal,proxi-distal,circle-clock,,,,,,,,"repeated, symmetrical, alternating, crossed"
-потреблять,1-st,closed,curved,straight,,tips,,neutral-prone,trunk,,far-near,arc,,,,,,,,
-сократить,1-st,,straight,straight,,palm,,prone-neutral,space,horisontal,ipsi-contra,arc,,,,,,,,"tense, symmetrical"
-вкладывать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight,bent,radial,tips,wide-pointed,,hand-palm,sagittal,proxi-distal,sraight,,,,,,,,
-контролировать,"1-st, 2-nd",,straight,straight,tips,"ulnar, radial",wide,,space,horisontal,"contra-ipsi, ipsi-contra, x-y",sraight,,,,,,,,"symmetrical, tense"
-собираться,"1-st, 2-nd, 3-rd, 4-th",closed-open,curved-straight,bent-straight,palm,tips,wide,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical
-разговаривать,1-st,,straight,straight,radial,ulnar,,,head-low,,near-far,sraight,,,,,,,,"repeated, symmetrical, alternating"
-конвертировать,"1-st, 2-nd",,straight,straight,,,wide,"prone-neutral, neutral-prone",space,parallel,,,,,,,,,,"symmetrical, alternating"
-убеждать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight,bent,back,tips,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,symmetrical
-копировать,"1-st, 2-nd",open-closed,straight,bent,tips,,pointed,,hand-palm,horisontal,,,,,,,,back,,repeated
-исправлять,"1-st, 2-nd",closed,straight,bent,palm,tips,pointed,,"hand-narrow, space",parallel,"proxi-distal, x-y",sraight,,,,,,,,"symmetrical, repeated, biderectional"
-кашлять,"1-st, 2-nd, 3-rd, 4-th",,straight,bent,tips,,pointed,neutral-supine,trunk,,,,,,,,,,,repeated
-считать,2-nd,,straight,bent,tips,tips,,,hand-palm,horisontal,far-near,iconic,,,,,,back,,repeated
-подделывать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight,bent,radial,tips,pointed,,head,,ipsi-contra,arc,,,,,,,,"symmetrical, alternating"
-закрывать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,radial,pointed,supine-prone,"virtual object, space",parallel,ipsi-contra,iconic,,,,,,,,symmetrical
-ползать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,pointed,,space,horisontal,proxi-distal,arc,,,,,,,,"repeated, symmetrical, alternating"
-обрезать,"1-st, 2-nd",,straight,straight,ulnar,tips,wide-pointed,,"virtual object, space",horisontal,ipsi-contra,iconic,,,,,,,,repeated
-короновать,"1-st, 2-nd, 3-rd, 4-th",open,straight,straight,ulnar,ulnar,wide,,head-high,,high-low,sraight,,,,,,,,symmetrical
-мять,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,palm,palm,wide-pointed,,virtual object,parallel,ipsi-contra,iconic,,,,,,,,symmetrical
-плакать,1-st,,straight,straight,palm,root,,neutral-supine,head-mid,,high-low,sraight,,,,,,,,"symmetrical, repeated"
-разрезать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,tips,ulnar,pointed,,hand-back,horisontal,distal-proxi,sraight,,,,,,palm,,tense
-танцевать,"1-st, 2-nd",,straight,straight,root,,wide,supine-prone,space,horisontal,,,,,,,,,,"symmetrical, repeated, alternating"
-отважиться,,,,,root,palm,,,space,horisontal,"proxi-distal, contra-ipsi",arc,,,,,,,,symmetrical
-объявлять,1-st,,straight-curved,straight,tips,back,,,head-high,,contra-ipsi,arc,,,,,,,,symmetrical
-приказать,"1-st, 2-nd, 3-rd, 4-th",closed-open,curved-straight,bent-straight,root,palm,pointed,,hand-back,horisontal,proxi-distal,sraight,,,,,,,,"symmetrical, tense"
-побеждать,,,,,root,,,supine-prone,space,horisontal,,,,,,,,,,tense
-защищать,"1-st, 2-nd, 3-rd, 4-th",,curved,bent,root,palm,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,symmetrical
-"грязь, direction","1-st, 2-nd, 3-rd, 4-th",,straight,straight,"palm, ulnar","palm, tips",wide,,"hand-palm, space","horisontal, horisontal","far-near, contra-ipsi, proxi-distal","sraight, sraight",,,,,,,,"symmetrical, symmetrical"
-уменьшать,"1-st, 2-nd, 3-rd, 4-th",,straight,bent,ulnar,palm,pointed,,"virtual object, space",horisontal,ipsi-contra,sraight,,,,,,,,symmetrical
-отказываться,"1-st, 2-nd, 3-rd, 4-th",,straight,bent-straight,tips,back,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,tense
-задерживать,,,,,ulnar,root,,,space,horisontal,distal-proxi,sraight,,,,,,,,symmetrical
-удалять,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,palm,pointed,,hand-narrow,horisontal,distal-proxi,sraight,,,,,,,,
-доставлять,"thumb, 1-st",,curved,straight,palm,"palm, back",,,"virtual object, space",horisontal,"ipsi-contra, contra-ipsi",arc,,,,,,,,symmetrical
-отвергать,"1-st, 2-nd, 3-rd, 4-th",,straight,bent-straight,tips,back,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,tense
-удалять волосы,1-st,closed,curved,,tips,back,,,head-high,,near-far,sraight,,,,,,,,"repeated, symmetrical, alternating"
-лишать,"1-st, 2-nd",,straight,straight,ulnar,palm,pointed,,hand-narrow,sagittal,distal-proxi,arc,,,,,,,,"symmetrical, tense"
-спускаться,"1-st, 2-nd",,curved,straight-bent,tips,tips,wide,,space,horisontal,"high-low, ipsi-contra",sraight,,,,,,,,repeated
-отчаяться,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,palm,pointed,,"hand-palm, trunk",,far-near,sraight,,,,,,ulnar,,tense
-"видеть, ненавидеть","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, straight","tips, root","tips, palm",wide,,"head-high, space",horisontal,"far-near, proxi-distal","sraight, sraight",,,,,,,,
-разрушать,"1-st, 2-nd, 3-rd, 4-th",,straight,bent-straight,ulnar,tips,pointed,,space,horisontal,ipsi-contra,sraight,,,,,,,,"symmetrical, crossed"
-разъединять,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,"palm, back",pointed,,hand-back,horisontal,distal-proxi,arc,,,,,,palm,,biderectional
-ухудшаться,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,radial,palm,pointed,,hand-palm,sagittal,high-low,sraight,,,,,,,,
-посвящать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,tips,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,symmetrical
-диктовать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,back,pointed,,"head-low, space",parallel,"near-far, high-low",vawe,,,,,,,,
-выполнить,"1-st, 2-nd, 4-th, 3-rd",,straight,straight,palm,tips,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,
-копать,"1-st, 2-nd, 3-rd, 4-th",,straight,bent,,ulnar,pointed,supine-prone,space,horisontal,ipsi-contra,sraight,,,,,,,,repeated
-уменьшать,"1-st, 2-nd, 3-rd, 4-th",,straight,bent,palm,palm,pointed,,"virtual object, space",horisontal,ipsi-contra,sraight,,,,,,,,symmetrical
-окунать,1-st,closed,curved,straight,tips,tips,,,space,horisontal,high-low,sraight,,,,,,,,"repeated, symmetrical"
-исчезать,"1-st, 2-nd, 3-rd, 4-th",closed,straight-curved,bent,palm,root,pointed,,head,,contra-ipsi,sraight,,,,,,,,symmetrical
-отпускать,1-st,closed,curved,straight,ulnar,tips,,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical
-рассоединять,"thumb, 1-st",,curved,straight,tips,root,,,hand-palm,sagittal,near-far,sraight,,,,,,,,
-"видеть, заметить","1-st, 1-st",open,"straight, curved","straight, straight","tips, palm","tips, palm",,,"head-high, hand-back",parallel,"far-near, far-near","sraight, sraight",,,,,,,,
-не.нравиться,1-st,closed,curved,straight,tips,tips,,neutral-prone,head-low,,near-far,sraight,,,,,,,,tense
-разбирать,"1-st, 2-nd",,straight-curved,straight,palm,root,wide,,space,horisontal,contra-ipsi,sraight,,,,,,,,"repeated, symmetrical, crossed"
-распространять,"1-st, 2-nd, 3-rd, 4-th",closed,straight,bent,back,radial,pointed,,space,horisontal,"proxi-distal, contra-ipsi",arc,,,,,,,,"laceration, symmetrical, repeated"
-нырять,"1-st, 2-nd",,straight,bent-straight,root,root,wide,,space,horisontal,"high-low, contra-ipsi",iconic,,,,,,,,repeated
-разделять,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,tips,pointed,,space,horisontal,"proxi-distal, contra-ipsi",arc,,,,,,,,symmetrical
-разделять,"1-st, 2-nd, 3-rd, 4-th",,straight,bent-straight,ulnar,ulnar,pointed,,hand-palm,horisontal,far-near,sraight,,,,,,back,,repeated
-заниматься.гимнастикой,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,tips,tips,pointed,,shoulder,,far-near,sraight,,,,,,,,"symmetrical, alternating, repeated"
-доминировать,1-st,,,,ulnar,back,,,"hand-palm, space",horisontal,proxi-distal,sraight,,,,,,,,
-не.знать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,back,pointed,,head-high,,"near-far, contra-ipsi",sraight,,,,,,,,symmetrical
-не.понимать,1-st,,curved,straight,radial,root,,,head-mid,,high-low,sraight,,,,,,,,
-вздремнуть,1-st,open-closed,straight,straight-bent,radial,,,,head-high,,,,,,,,,,,symmetrical
-тянуть,,,,,back,"radial, ulnar",,,space,horisontal,"contra-ipsi, ipsi-contra",sraight,,,,,,,,symmetrical
-рисовать,"1-st, 2-nd",,straight,straight,back,root,pointed,,hand-palm,sagittal,high-low,vawe,,,,,,,,
-мечтать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight-bent,palm,,wide,,head-high,,,,,,,,,,,repeated
-дрейфовать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight-bent,palm,"palm, back",wide,,"virtual object, space",horisontal,ipsi-contra,sraight,,,,,,,,"repeated, symmetrical, biderectional"
-сверлить,1-st,,straight,straight,tips,tips,,,space,horisontal,high-low,iconic,,,,,,,,
-пить,"1-st, 2-nd, 3-rd, 4-th",open,straight,bent,radial,radial,pointed,neutral-prone,head-low,,far-near,arc,,,,,,,,
-капать,1-st,closed-open,straight,bent,tips,"tips, back",,,space,horisontal,high-low,sraight,,,,,,,,biderectional
-полить,"thumb, 4-th",,straight,straight,ulnar,tips,,,hand-palm,horisontal,iconic,circle-counterclock,,,,,,,,
-выбыть,"1-st, 2-nd",,curved,straight,tips,tips,wide,,hand-palm,horisontal,near-far,arc,,,,,,,,
-зарабатывать,"1-st, 2-nd, 3-rd, 4-th",,curved,bent,"back, palm",ulnar,pointed,,"hand-palm, virtual object",horisontal,distal-proxi,sraight,,,,,,back,,repeated
-есть,"1-st, 2-nd, 3-rd, 4-th",closed,straight,bent,tips,tips,pointed,,head-low,,far-near,sraight,,,,,,,,repeated
-наставлять,"1-st, 2-nd",closed,straight,bent,root,tips,pointed,,hand-back,horisontal,proxi-distal,sraight,,,,,,palm,,repeated
-редактировать,"1-st, 2-nd",closed,straight,bent,root,"ulnar, tips",pointed,,"hand-narrow, space","parallel, horisontal","contra-ipsi, contra-ipsi","sraight, sraight",,,,,,palm,,"repeated, biderectional"
-обучать,"1-st, 2-nd",closed,straight,bent,root,tips,pointed,,hand-narrow,horisontal,proxi-distal,sraight,,,,,,palm,,repeated
-выбирать,1-st,open-closed,curved,straight,radial,back,,,hand-palm,sagittal,distal-proxi,sraight,,,,,,,,
-поднимать,,,,,ulnar,radial,,supine-prone,space,horisontal,low-high,sraight,,,,,,,,repeated
-уничтожать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,palm,tips,wide-pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,,,
-вышивать,1-st,closed,curved,straight,tips,"back, ulnar",,,space,horisontal,"high-low, contra-ipsi",sraight,,,,,,,,"repeated, symmetrical, alternating, crossed"
-"возникать, видно","1-st, 1-st",closed-open,"curved-straight, straight","bent-straight, straight","back, tips","tips, tips",,,"space, head-mid",horisontal,"low-high, far-near","sraight, sraight",,,,,,,,tense
-обращать.внимание,1-st,,straight,straight,tips,tips,,,head-mid,,far-near,sraight,,,,,,,,
-нанимать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,back,"ulnar, radial",pointed,,space,horisontal,"distal-proxi, ipsi-contra, contra-ipsi",arc,,,,,,,,symmetrical
-позволять,1-st,closed,curved,straight,ulnar,tips,,,space,horisontal,"proxi-distal, contra-ipsi",arc,,,,,,,,symmetrical
-гравировать,thumb,,straight,straight,tips,tips,,prone-supine,hand-palm,horisontal,distal-proxi,vawe,,,,,,,,
-увеличивать,"thumb, 4-th",,straight,straight,palm,back,,,virtual object,horisontal,"contra-ipsi, low-high",arc,,,,,,,,symmetrical
-входить,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,tips,pointed,,hand-back,horisontal,proxi-distal,arc,,,,,,,,
-завидовать,1-st,open,straight-curved,straight,tips,,,,trunk,,,,,,,,,,,"repeated, symmetrical"
-стирать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,ulnar,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,,,
-сбегать,"1-st, 2-nd",closed-open,curved-straight,bent-straight,back,tips,pointed-wide,,hand-palm,horisontal,proxi-distal,sraight,,,,,,,,
-уклоняться,,,straight,bent-straight,palm,root,wide,,space,parallel,"contra-ipsi, low-high, high-low",sraight,,,,,,,,"repeated, symmetrical"
-выкапывать,"1-st, 2-nd, 3-rd, 4-th",,curved,bent,palm,ulnar,pointed,supine-prone,"space, virtual object",horisontal,ipsi-contra,iconic,,,,,,,,repeated
-преувеличивать,"thumb, 4-th",,straight,straight,palm,back,,,space,horisontal,"low-high, contra-ipsi",arc,,,,,,,,symmetrical
-обменивать,"1-st, 2-nd",,straight,straight,,,wide,"prone-supine, supine-prone",space,,,,,,,,,,,"symmetrical, alternating, crossed"
-прощать,1-st,closed,curved,straight,tips,tips,,neutral-prone,head-low,,near-far,sraight,,,,,,,,
-выдыхать,"1-st, 2-nd, 3-rd, 4-th",,straight,bent,palm,back,wide,,trunk,,near-far,sraight,,,,,,,,biderectional
-истощать,1-st,open-closed,straight,bent,tips,tips,,prone-supine,hand-palm,horisontal,far-near,sraight,,,,,,back,,repeated
-"видеть, выставлять.картины","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, straight","tips, palm","tips, palm, ulnar",,,"head-mid, space",parallel,"far-near, far-near, contra-ipsi","sraight, arc",,,,,,,,"symmetrical, repeated, alternating"
-существовать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,ulnar,pointed,,hand-palm,horisontal,far-near,sraight,,,,,,back,,repeated
-ожидать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,radial,root,pointed,,trunk,,high-low,sraight,,,,,,,,repeated
-взрывать,,,,,palm,radial,,,space,parallel,"contra-ipsi, low-high",sraight,,,,,,,,"symmetrical, crossed, tense"
-"видеть, замечать","1-st, 1-st",open,"straight, curved","straight, straight","tips, tips","tips, tips",,,"head-mid, hand-back",horisontal,"far-near, far-near","sraight, sraight",,,,,,,,
-"выражать, давать","1-st, 2-nd, 3-rd, 4-th, 1-st, 2-nd, 3-rd, 4-th",,,,"palm, back","radial, radial","wide, pointed",,"trunk, space",horisontal,"low-high, proxi-distal","sraight, sraight",,,,,,,,"symmetrical, symmetrical"
-создавать,1-st,,straight,straight,tips,tips,,prone-supine,space,parallel,ipsi-contra,arc,,,,,,,,symmetrical
-облегчать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,tips,palm,pointed,,head-low,,contra-ipsi,sraight,,,,,,,,symmetrical
-затухать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,back,root,wide-pointed,,space,parallel,high-low,vawe,,,,,,,,symmetrical
-падать,"1-st, 2-nd",,straight,straight,"tips, back",,wide,prone-supine,hand-palm,horisontal,,,,,,,,,,
-пукать,,,,,,,,neutral-prone,space,,,,,,,,,,,"repeated, symmetrical"
-кормить,"thumb, 1-st",,curved,straight,tips,tips,,,space,sagittal,far-near,sraight,,,,,,back,,repeated
-чувствовать,1-st,,straight,straight,tips,tips,,,hand-back,horisontal,far-near,sraight,,,,,,palm,,"biderectional, tense"
-воевать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,"tips, root",wide,,space,horisontal,"proxi-distal, ipsi-contra, contra-ipsi",sraight,,,,,,,,"tense, symmetrical"
-финансировать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight,bent,back,tips,pointed,,hand-palm,horisontal,far-near,sraight,,,,,,back,,repeated
-подходить,1-st,,straight,straight,back,tips,,,space,parallel,"high-low, low-high",sraight,,,,,,,,"symmetrical, crossed"
-вспыхнуть,"1-st, 2-nd, 3-rd, 4-th",closed-open,curved-straight,bent-straight,back,tips,pointed-wide,,space,parallel,low-high,sraight,,,,,,,,"symmetrical, tense"
-убежать,"1-st, 2-nd",closed-open,curved-straight,bent-straight,back,tips,pointed-wide,,hand-palm,horisontal,proxi-distal,sraight,,,,,,palm,,tense
-сгибать,,,,,palm,,,prone-neutral,virtual object,horisontal,,,,,,,,,,symmetrical
-течь,"1-st, 2-nd, 3-rd, 4-th",,straight,straight-bent,palm,tips,wide,,space,horisontal,"ipsi-contra, contra-ipsi",sraight,,,,,,,,"repeated, symmetrical"
-"получиться, нет","1-st, 2-nd, 3-rd, 4-th, 1-st, 2-nd, 3-rd, 4-th",open-closed,"straight-curved, straight","straight-bent, straight","back, palm","ulnar, ulnar","pointed, pointed",,"hand-palm, space","horisontal, horisontal","far-near, contra-ipsi, proxi-distal","arc, sraight",,,,,,,,
-трепетать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,"palm, ",,wide,,space,horisontal,ipsi-contra,sraight,,,,,,,,"repeated, symmetrical, biderectional, alternating"
-летать.на.самолете,"1-st, 4-th",,straight,straight,palm,tips,,,space,horisontal,"ipsi-contra, low-high",sraight,,,,,,,,
-фокусировать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,bent-straight,radial,palm,pointed,,head,,ipsi-contra,sraight,,,,,,,,"symmetrical, crossed"
-преследовать,thumb,,straight,straight,"back, ulnar",back,,,"hand-classifier, space",horisontal,far-near,vawe,thumb,,straight,straight,,ulnar,,symmetrical
-"отслеживать, мониторить","1-st, 2-nd",,straight,straight,tips,"palm, ulnar, radial",wide,,space,parallel,"high-low, contra-ipsi, ipsi-contra",sraight,,,,,,,,"symmetrical, repeated"
-запрещать,1-st,,straight,straight,ulnar,ulnar,,,hand-back,horisontal,far-near,sraight,,,,,,palm,,repeated
-забывать,"thumb, 2-nd, 3-rd, 4-th",open-closed,straight,bent,tips,palm,pointed,,head-high,,contra-ipsi,sraight,,,,,,,,
-замораживать,,,,,back,ulnar,,prone-neutral,space,parallel,high-low,arc,,,,,,,,symmetrical
-часто посещать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,tips,pointed,,"hand-back, space",horisontal,"proxi-distal, ipsi-contra",sraight,,,,,,palm,,repeated
-беспокоиться,"1-st, 2-nd, 3-rd, 4-th",open,curved,straight,tips,radial,pointed,,trunk,,low-high,sraight,,,,,,,,"repeated, symmetrical, alternating"
-заниматься.сексом,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,tips,pointed,,trunk,,ipsi-contra,sraight,,,,,,,,"repeated, symmetrical, crossed"
-потолстеть,,,,,ulnar,back,,,space,horisontal,contra-ipsi,sraight,,,,,,,,"symmetrical, laceration"
-преклонять колени,"1-st, 2-nd",,straight-curved,straight,tips,,wide,,hand-palm,horisontal,,,,,,,,,,
-уезжать,1-st,open-closed,straight,bent,root,tips,,,space,horisontal,"proxi-distal, ipsi-contra, contra-ipsi",arc,,,,,,,,symmetrical
-одеться,"1-st, 2-nd, 3-rd, 4-th",closed,straight,bent,tips,back,pointed,,trunk,,ipsi-contra,arc,,,,,,,,symmetrical
-избавиться,,,,,,ulnar,,supine-prone,space,sagittal,high-low,,,,,,,,,symmetrical
-хихикать,"1-st, 2-nd",,curved,straight,tips,tips,wide,,head-low,,far-near,sraight,,,,,,,,repeated
-давать,"1-st, 2-nd, 3-rd, 4-th",open,straight,straight,,radial,pointed,neutral-supine,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical
-возвращать,"1-st, 2-nd",,straight,straight,,back,wide,neutral-prone,space,horisontal,distal-proxi,sraight,,,,,,,,
-сдаваться,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,,back,pointed,,space,parallel,iconic,iconic,,,,,,,,symmetrical
-"видеть, взглянуть","1-st, 1-st, 2-nd",,"straight, straight","straight, straight","tips, tips","tips, ulnar",wide,,"head-mid, space",horisontal,"far-near, contra-ipsi","sraight, arc",,,,,,,,
-идти,"1-st, 2-nd, 3-rd, 4-th",open,straight,straight,back,radial,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,"repeated, symmetrical, alternating"
-входить,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,tips,pointed,,hand-back,horisontal,proxi-distal,arc,,,,,,,,
-выходить,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,back,tips,pointed,,hand-palm,horisontal,proxi-distal,arc,,,,,,,,
-схватить,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,palm,palm,wide-pointed,,"virtual object, space",horisontal,"far-near, high-low",sraight,,,,,,,,"symmetrical, tense"
-"думать, проникнуть","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, straight","tips, palm","tips, tips",wide,,"head-high, hand-palm",sagittal,"far-near, proxi-distal","sraight, sraight",,,,,,,,
-натирать.на.терке,"1-st, 2-nd, 3-rd, 4-th",,curved,bent,palm,ulnar,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,"repeated, biderectional"
-приветствовать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,"ulnar, radial",pointed,,space,parallel,contra-ipsi,arc,,,,,,,,repeated
-крепко держать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,palm,,wide-pointed,,space,horisontal,,,,,,,,,,symmetrical
-стонать,1-st,open,curved,straight,radial,ulnar,,,head-low,,"near-far, contra-ipsi",sraight,,,,,,,,symmetrical
-шептаться,"1-st, 2-nd",open-closed,straight,straight,radial,,pointed,,head-low,,,,,,,,,,,"repeated, symmetrical"
-"обмануть, всех","1-st, 4-th",,straight,straight,palm,"tips, ulnar",,,"hand-back, space","horisontal, horisontal","distal-proxi, contra-ipsi","sraight, arc",,,,,,"palm, palm",,repeated
-бить.молотком,,,,,ulnar,ulnar,,,virtual object,"horisontal, ",far-near,sraight,,,,,,,,repeated
-случаться,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,,,wide,prone-neutral,space,,,,,,,,,,,"repeated, symmetrical"
-вредить,"1-st, 2-nd",,straight,straight,ulnar,back,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,"repeated, symmetrical"
-штриховать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,tips,palm,pointed,,hand-palm,sagittal,high-low,sraight,,,,,,back,,"repeated, biderectional"
-"видеть, ненавидеть","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, straight","tips, palm","tips, palm",wide,,"head-mid, space",parallel,"far-near, far-near","sraight, sraight",,,,,,,,
-"вечер, есть","1-st, 2-nd, 3-rd, 4-th, 1-st, 2-nd, 3-rd, 4-th",closed,"straight, straight","bent, bent","palm, tips","palm, tips","pointed, pointed",,"hand-back, head-low",horisontal,"far-near, far-near","sraight, sraight",,,,,,palm,,repeated
-"думать, колебаться","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, straight","tips, palm","tips, palm",pointed,,"head-high, space",horisontal,"far-near, high-low","sraight, sraight",,,,,,,,"repeated, symmetrical, alternating, biderectional"
-прятать,"1-st, 2-nd, 3-rd, 4-th",closed,straight,bent,tips,tips,pointed,,hand-palm,horisontal,far-near,arc,,,,,,,,
-ударять.кулаком,,,,,palm,tips,,,space,horisontal,"proxi-distal, ipsi-contra",sraight,,,,,,,,
-держать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,back,,wide-pointed,,space,horisontal,,,,,,,,,,symmetrical
-обнимать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,ulnar,tips,pointed,,space,horisontal,ipsi-contra,arc,,,,,,,,"symmetrical, crossed"
-игнорировать,"1-st, 2-nd, 3-rd, 4-th","open-closed, closed-open",straight,bent,radial,tips,"pointed, pointed-wide",,head-side,,near-far,sraight,,,,,,,,
-нарушать,"1-st, thumb",,curved,straight,radial,tips,,,"hand-classifier, space",horisontal,distal-proxi,arc,,,,,,,,"symmetrical, tense"
-выполнять,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,
-улучшать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,radial,back,pointed,,hand-palm,sagittal,low-high,sraight,,,,,,back,,laceration
-включать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight,bent,back,tips,wide-pointed,,hand-palm,parallel,high-low,arc,,,,,,,,
-"включать, инкорпорировать","1-st, 2-nd, 3-rd, 4-th",open-closed,straight,bent,back,tips,pointed,,hand-palm,sagittal,high-low,arc,,,,,,,,
-увеличивать,"thumb, 4-th",,straight,straight,palm,ulnar,,,space,horisontal,"proxi-distal, contra-ipsi",,,,,,,,,symmetrical
-вскружить голову,1-st,,straight,straight,tips,tips,,,head-high,,ipsi-contra,circle-counterclock,,,,,,,,repeated
-"наводнять, наполнять","1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,wide,,space,horisontal,"ipsi-contra, proxi-distal",sraight,,,,,,,,symmetrical
-проникать,1-st,,straight,straight,"tips, radial",tips,,,"head-mid, hand-palm",sagittal,"far-near, far-near",sraight,,,,,,,,
-надувать,"1-st, 2-nd, 3-rd, 4-th",closed-open,curved-straight,bent-straight,palm,back,pointed-wide,,"virtual object, head-low",horisontal,contra-ipsi,sraight,,,,,,,,"symmetrical, crossed"
-информировать,1-st,,straight-curved,straight,tips,radial,,,head-high,horisontal,"contra-ipsi, proxi-distal",arc,,,,,,,,symmetrical
-начинать,1-st,,straight,straight,radial,tips,,,hand-palm,parallel,low-high,sraight,,,,,,,,
-уколоть,1-st,open-closed,straight,bent,back,back,,,arm,,far-near,,,,,,,,,
-"dem, кровь","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, bent-straight","tips, palm","tips, ulnar",,,"arm, arm",,"far-near, proxi-distal","sraight, sraight",,,,,,,,"repeated, alternating"
-обновлять,"1-st, 2-nd, 3-rd, 4-th",,curved,bent,back,tips,pointed,,hand-palm,parallel,"far-near, low-high",arc,,,,,,back,,repeated
-настаивать,1-st,,straight,straight,tips,tips,,,hand-palm,horisontal,high-low,sraight,,,,,,,,
-проверять,"1-st, thumb",,curved,straight,radial,tips,,,hand-classifier,horisontal,high-low,sraight,,,,,,,,"repeated, symmetrical"
-оскорбить,1-st,,straight-curved,straight,tips,back,,,head-low,,"near-far, ipsi-contra",sraight,,,,,,,,tense
-интегрировать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,wide,,space,horisontal,"ipsi-contra, proxi-distal",arc,,,,,,,,"symmetrical, crossed"
-вмешиваться,1-st,,straight,straight,"tips, radial",tips,,,"head-mid, hand-palm",sagittal,"far-near, far-near",sraight,,,,,,,,
-вмешиваться,1-st,,straight,straight,"tips, radial",tips,,,"head-mid, hand-palm",sagittal,"far-near, far-near",sraight,,,,,,,,
-прерывать,"1-st, 2-nd",,curved,straight,tips,ulnar,wide,,hand-classifier,parallel,high-low,sraight,,,,,,,,"symmetrical, tense"
-знакомить,"1-st, 2-nd, 3-rd, 4-th",open,curved,straight,palm,palm,pointed,supine-prone,hand-palm,horisontal,far-near,arc,,,,,,,,symmetrical
-переворачивать,,,straight,straight,palm,back,pointed,prone-supine,"space, virtual object",horisontal,contra-ipsi,sraight,,,,,,,,
-приглашать,"1-st, 2-nd, 3-rd, 4-th",,straight,bent,ulnar,ulnar,pointed,,space,horisontal,distal-proxi,sraight,,,,,,,,"repeated, symmetrical"
-"гладить, утюжить","thumb, 4-th",,straight,straight,tips,"radial, ulnar",,,hand-palm,horisontal,distal-proxi,sraight,,,,,,back,,biderectional
-"видеть, раздражать","1-st, 2-nd",closed-open,"straight, curved",straight,"tips, tips","tips, back",,,"head-mid, trunk",,"far-near, near-far","sraight, sraight",,,,,,,,"repeated, symmetrical"
-издавать,,,,,palm,"palm, tips",,,"hand-palm, space",horisontal,"far-near, proxi-distal",sraight,,,,,,,,"repeated, symmetrical"
-угрожать,1-st,,straight,straight,ulnar,tips,,,space,horisontal,"proxi-distal, ipsi-contra, contra-ipsi",sraight,,,,,,,,"repeated, symmetrical"
-присоединять,1-st,open,curved,straight,ulnar,tips,,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical
-вступить,"thumb, 1-st",,straight,straight,ulnar,tips,,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical
-вибрировать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,,wide,prone-neutral,"space, virtual object",horisontal,,,,,,,,,,"repeated, symmetrical, alternating"
-перемешивать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,tips,"ulnar, radial",pointed,,space,horisontal,contra-ipsi,circle-clock,,,,,,,,"repeated, symmetrical, alternating, crossed"
-прыгать,"1-st, 2-nd",,straight-curved,straight,tips,root,wide,,hand-palm,horisontal,low-high,sraight,,,,,,back,,"repeated, biderectional"
-ударить,,,,,palm,tips,,,space,horisontal,ipsi-contra,sraight,,,,,,,,tense
-похитить,,,,,,radial,,supine-prone,space,horisontal,ipsi-contra,arc,,,,,,,,symmetrical
-убить,,,,,radial,palm,,,hand-palm,sagittal,high-low,sraight,,,,,,,,
-целовать,"1-st, 2-nd",,straight,straight,,palm,pointed,supine-prone,head-low,,near-far,sraight,,,,,,,,
-стоять на коленях,"1-st, 2-nd",,straight-curved,straight,tips,,wide,,hand-palm,horisontal,,,,,,,,,,
-вязать,1-st,,straight,straight,palm,,,prone-neutral,"space, virtual object",horisontal,,,,,,,,,,"symmetrical, crossed"
-свалить,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,back,back,pointed,,hand-palm,horisontal,far-near,arc,,,,,,,,
-недоставать,"1-st, 2-nd, 3-rd, 4-th",open-closed,curved,straight,tips,ulnar,pointed,,neck,,high-low,sraight,,,,,,,,tense
-"берег, корабль.плывет.к","1-st, 2-nd, 3-rd, 4-th, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, straight","back, palm","root, tips","pointed, pointed",,"arm, virtual object, space",horisontal,"proxi-distal, proxi-distal, ipsi-contra, contra-ipsi","vawe, sraight",,,,,,,,symmetrical
-продолжать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,"palm, root",pointed,,hand-palm,horisontal,"near-far, high-low",sraight,,,,,,back,,repeated
-уложить,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,back,"ulnar, back",pointed,,hand-palm,horisontal,"ipsi-contra, far-near",arc,,,,,,,,
-вести за собой,thumb,,straight,straight,ulnar,tips,,,space,horisontal,proxi-distal,sraight,,,,,,,,"symmetrical, crossed"
-прыгать,"1-st, 2-nd",,curved,straight,tips,tips,wide,,hand-palm,horisontal,near-far,arc,,,,,,,,
-учить,"1-st, 2-nd",closed,straight,bent,radial,tips,pointed,,head-high,,high-low,arc,,,,,,,,repeated
-уезжать,1-st,open-closed,straight,bent,root,tips,,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical
-читать лекцию,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,back,pointed,,head-low,,"near-far, high-low",vawe,,,,,,,,
-одалживать,"1-st, 2-nd, 3-rd, 4-th",,straight-curved,straight-bent,tips,back,pointed,,space,horisontal,distal-proxi,sraight,,,,,,,,
-одалживать,"1-st, 2-nd, 3-rd, 4-th",,straight-curved,straight-bent,tips,back,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,
-"человек, человек, связь","1-st, 1-st, 1-st","open, open","curved, curved, curved","straight, straight, straight","tips, tips, palm","ulnar, ulnar, palm",,supine-prone,"space, space, hand-classifier","parallel, parallel, horisontal","high-low, high-low, far-near","sraight, sraight, arc",,,,,,,,"symmetrical, crossed"
-лгать,"1-st, 4-th",,straight,straight,palm,tips,,,hand-back,horisontal,proxi-distal,sraight,,,,,,,,"repeated, symmetrical"
-лежать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,palm,pointed,,hand-palm,horisontal,far-near,sraight,,,,,,,,
-приподнять,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight,bent,back,palm,pointed,,space,horisontal,low-high,sraight,,,,,,,,symmetrical
-нравиться,1-st,closed,curved,straight,tips,tips,,,head-low,,far-near,sraight,,,,,,,,
-хромать,1-st,,straight,straight,tips,tips,,,space,horisontal,"high-low, iconic",sraight,,,,,,,,"repeated, symmetrical, alternating"
-слушать,"1-st, 2-nd, 3-rd, 4-th",open,curved,straight,radial,radial,pointed,,head-side,,far-near,sraight,,,,,,,,repeated
-жить,"1-st, 3-rd, 4-th, 2-nd",,straight,bent,ulnar,ulnar,pointed,,trunk,,far-near,sraight,,,,,,,,"repeated, symmetrical"
-ненавидеть,"1-st, 2-nd",,curved,straight,tips,ulnar,wide,,head-mid,,ipsi-contra,sraight,,,,,,,,repeated
-"видеть, ненавидеть","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, straight","tips, palm","tips, palm",wide,,"head-mid, space",parallel,"far-near, proxi-distal","sraight, sraight",,,,,,,,
-запирать,"1-st, thumb",,curved,straight,,tips,,supine-neutral,hand-palm,sagittal,high-low,arc,,,,,,back,,tense
-глядеть,"1-st, 2-nd",,straight,straight,palm,tips,wide,,space,horisontal,proxi-distal,sraight,,,,,,,,
-"смотреть, туда","1-st, 2-nd, 1-st",,"straight, straight","straight, straight","palm, tips","back, tips",wide,,"head-mid, space",horisontal,"near-far, x-y","sraight, sraight",,,,,,,,
-искать,"1-st, 2-nd",,curved,straight,tips,tips,wide,,"virtual object, space",horisontal,"far-near, high-low",arc,,,,,,,,"repeated, symmetrical, alternating"
-исчезнуть,"1-st, 2-nd",,straight,straight,palm,ulnar,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,symmetrical
-любить,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,ulnar,pointed,,"head-low, trunk",,high-low,arc,,,,,,,,
-опустить,"1-st, 2-nd, 3-rd, 4-th",,straight,bent,palm,root,pointed,,space,parallel,high-low,sraight,,,,,,,,symmetrical
-"видеть, соблазнять","1-st, 1-st, 2-nd, 3-rd, 4-th",,"straight, straight","straight, bent-straight","tips, root","tips, palm",wide,,"head-mid, space",horisontal,"far-near, distal-proxi","sraight, sraight",,,,,,,,"repeated, symmetrical, alternating"
-поддерживать,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,back,palm,wide-pointed,,space,horisontal,low-high,spiral,,,,,,,,symmetrical
-целоваться,,,,,palm,"ulnar, radial",,,hand-classifier,sagittal,in situ,circle-clock,,,,,,palm,,"symmetrical, alternating"
-управлять,"thumb, 1-st",,curved,straight,ulnar,tips,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,"repeated, symmetrical, alternating, biderectional"
-жениться,1-st,closed,curved,straight,tips,radial,,,hand-back,horisontal,distal-proxi,sraight,,,,,,,,
-подходить,1-st,,straight,straight,back,tips,,,space,parallel,"high-low, low-high",sraight,,,,,,,,"symmetrical, crossed"
-измерять,1-st,closed,curved,straight,radial,ulnar,,,hand-classifier,horisontal,near-far,vawe,,,,,,,,"symmetrical, laceration"
-встречаться,1-st,,straight,straight,root,palm,,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical
-"думать, запоминать",1-st,,straight,straight,tips,tips,,"prone-neutral, supine-neutral","head-high, space",,far-near,sraight,,,,,,,,"symmetrical, crossed"
+Sign,H1 FingerSelection,H1 Aperture,H1 Curve,H1 Bent,H1 Facing,H1 Focus,H1 Width,Dynamic Orientation,Location,Plane,Settings,Path,H2 FingerSelection,H2 Aperture,H2 Curve,H2 Bent,H2 Width,H2 Facing,H2 Focus,Manner,H1 Focus_2
+скучать,3-rd,closed,curved,straight,ulnar,ulnar,,,space,horisontal,high-low,sraight,,,,,,,,symmetrical,
+мониторить,1-st; 2-nd,,straight,straight,palm,palm,wide,,space,horisontal,high-low; contra-ipsi,sraight; sraight,,,,,,,,repeated; symmetrical,ulnar
+двигаться,1-st; 2-nd; 3-rd; 4-th,,straight,bent-straight,palm,ulnar,wide,,space,horisontal,contra-ipsi; ipsi-contra,sraight,,,,,,,,repeated; symmetrical; alternating,
+мямлить,1-st; 2-nd,open-closed,straight,bent,radial,,pointed,,head-low,,,,,,,,,,,repeated,
+должен,1-st,,straight,straight,palm,palm,,,hand-palm,horisontal,far-near,arc,,,,,,,,,
+называть,1-st,,straight,straight,tips,radial,,,hand-classifier; space,horisontal,low-high,sraight,thumb,,straight,straight,,ulnar,,repeated; crossed,
+рассказывать,2-nd,closed-open,curved,straight,tips,ulnar,,,space,parallel,contra-ipsi,sraight,,,,,,,,repeated; symmetrical,
+тошнить,1-st; 2-nd; 3-rd; 4-th,,straight,bent,tips,radial,,,trunk,,low-high,sraight,,,,,,,,repeated; symmetrical,
+игнорировать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight,bent,radial,palm,pointed,,head-side,,near-far,arc,,,,,,,,biderectional,
+кивать,,,,,tips,palm,,,space,parallel,high-low,iconic,,,,,,,,repeated,
+записывать,1-st; 2-nd; 3-rd; 4-th,closed-open,straight,bent,palm,,pointed,,hand-palm,horisontal,,,,,,,,back,,repeated,
+оскорблять,1-st,,straight-curved,straight,tips,back,,,head-low,,near-far,sraight,,,,,,,,repeated; symmetrical; alternating,
+оскорбить,1-st,open-closed,straight-curved,straight-bent,tips,back,,,head-low,,near-far,sraight,,,,,,,,tense,
+предлагать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,,radial,pointed,neutral-supine,trunk,,low-high; near-far,arc,,,,,,,,symmetrical,
+пропустить,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,straight-bent,palm,,pointed,,space,horisontal,,,,,,,,,,tense,
+откупорить,thumb; 1-st,,curved,straight,tips,radial,,,hand-classifier,horisontal,near-far,arc,,,,,,ulnar,,tense,
+"душить, подавлять",1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,straight-bent,palm,,pointed,,neck,,,,,,,,,,,symmetrical; crossed,
+ориентироваться,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,tips,pointed,neutral-back,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,repeated; laceration,
+происходить,1-st,closed-open,curved-straight,bent-straight,palm,tips,,,hand-back,parallel,high-low; contra-ipsi,sraight,,,,,,back,,repeated,radial
+должен,1-st,,straight,straight,palm,palm,,,hand-palm,horisontal,far-near; high-low,arc,,,,,,back,,tense,
+перехлестывать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,palm,pointed,,hand-back,horisontal,far-near,sraight,,,,,,,,,
+нападать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,tips,wide,,space,horisontal,x-y; proxi-distal,arc,,,,,,,,symmetrical,
+шлепать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,palm,pointed,,virtual object; space,sagittal,far-near,arc,,,,,,,,repeated,
+миновать,thumb,,straight,straight,palm; ulnar,tips,,,hand-classifier; space,horisontal,proxi-distal,sraight,thumb,,,,,ulnar,,symmetrical,
+пройти мимо,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,ulnar,wide,,hand-palm,sagittal,proxi-distal,sraight,,,,,,,,symmetrical,
+платить,1-st; 2-nd; 3-rd; 4-th,open-closed,straight,bent,back,tips,,,hand-palm,horisontal,far-near,sraight,,,,,,,,,
+платить.кредиткой,1-st; 2-nd; 3-rd; 4-th,closed,straight,bent,tips,ulnar,pointed,,space,horisontal,contra-ipsi,sraight,,,,,,,,,
+клюнуть,1-st; thumb,,curved,straight,tips,tips,,,space,sagittal,far-near,sraight,,,,,,,,tense,
+мочиться,1-st,,straight,straight,root,palm,,,trunk,,high-low,sraight,,,,,,,,repeated,
+видеть,1-st,,straight,straight,tips,tips,,,head-mid,,far-near,sraight,,,,,,,,,
+взглянуть,"1-st, 2-nd",,straight,straight,tips,tips,wide,,"head-mid, space",horisontal,"near-far, proxi-distal",arc,,,,,,,,,
+наказывать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,radial,pointed,,hand-back,parallel,low-high,sraight,,,,,,back,,repeated,
+вмешиваться,1-st,,straight,straight,tips; radial,tips,,,head-mid; hand-palm,sagittal,far-near; proxi-distal,sraight; sraight,,,,,,,,,
+выполнять,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,tips,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,,
+уговаривать,1-st; 4-th,,straight,straight,ulnar,tips,,,space,sagittal,proxi-distal; high-low,sraight,,,,,,,,repeated; symmetrical; alternating,
+фотографировать,1-st; 2-nd; 3-rd; 4-th,open,straight-curved,straight,root,back,wide,,space,horisontal,far-near; contra-ipsi,sraight; sraight,,,,,,,,repeated,ulnar
+протыкать,1-st; 4-th,,straight,straight,tips,tips,,prone-neutral,hand-palm,sagittal,far-near,sraight,,,,,,palm,,tense,
+собирать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,straight-bent,ulnar,palm,wide-pointed,,hand-palm,horisontal,ipsi-contra; far-near,arc,,,,,,,,,
+поднимать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,straight-bent,tips,root,pointed,,space,horisontal,low-high,sraight,,,,,,,,,
+проколоть,1-st,,straight,straight,tips,tips,,prone-neutral,hand-palm,sagittal,far-near,sraight,,,,,,,,,
+защипнуть,1-st,open-closed,straight-curved,straight,tips,tips,,prone-neutral,space,horisontal,proxi-distal,sraight,,,,,,,,,
+писать,1-st,,straight,straight,root,tips,,,trunk,,near-far; high-low,sraight,,,,,,,,repeated,
+играть,1-st; 2-nd; 3-rd; 4-th,closed,straight,bent,back,tips,pointed,,space,horisontal,low-high,sraight,,,,,,,,repeated; symmetrical; alternating,
+сядь,1-st,,straight-curved,straight,palm,tips,pointed,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical,
+отказываться,1-st; 2-nd; 3-rd; 4-th,,straight,bent-straight,palm,tips,pointed,,hand-palm,,proxi-distal,sraight,,,,,,,,tense,
+сокращать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,,palm,,pointed,,space,parallel,,,,,,,,,,symmetrical,
+отменить,1-st; 2-nd; 3-rd; 4-th,,straight,straight,,ulnar,pointed,,space,parallel,high-low; ipsi-contra; contra-ipsi,sraight,,,,,,,,,
+восхвалять,1-st; 2-nd; 3-rd; 4-th,,straight,straight,,palm,wide,,space,parallel,low-high,vawe,,,,,,,,symmetrical,
+размещать,1-st; 2-nd; 3-rd; 4-th,open-closed,,,palm,tips,wide-pointed,,space,parallel,far-near,arc,,,,,,,,repeated; symmetrical; alternating,
+сопровождать,1-st,,straight,straight,root,ulnar,,,space,horisontal,proxi-distal,sraight,,,,,,,,symmetrical,
+обвинять,1-st; 2-nd; 3-rd; 4-th,closed,,,root,tips,pointed,,hand-back; space,horisontal,x-y,sraight,,,,,,palm,,repeated; tense,
+отложить,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm; ulnar,back,pointed,,virtual object; space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical,
+продвигать,,,,,ulnar,radial,,neutral-supine,space,horisontal,low-high; proxi-distal,sraight,,,,,,,,repeated,
+влиять,1-st; 2-nd; 3-rd; 4-th,closed,straight-curved,bent,ulnar,back,pointed,,space,horisontal,x-y,sraight,,,,,,,,symmetrical,
+ухудшать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,radial,palm,pointed,,hand-palm; space,sagittal,high-low,sraight,,,,,,,,,
+предупреждать,1-st,,straight-curved,,tips,back,,,head-high,,near-far,sraight,,,,,,,,,
+облегчать,1-st; 2-nd; 3-rd; 4-th,,,straight-bent,tips,palm,pointed,,head-low,,contra-ipsi,sraight,,,,,,,,symmetrical,
+размещать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight,,palm,tips,wide-pointed,,space,horisontal,far-near,arc,,,,,,,,symmetrical; alternating; repeated,
+разрешать,1-st,closed,curved,,ulnar,tips,,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical,
+изменять,1-st; 2-nd,,straight,straight,palm,,wide,,hand-palm,horisontal,,circle-clock,,,,,,,,symmetrical; repeated,
+изменять к лучшему,1-st; 2-nd; 3-rd; 4-th,,straight,straight,radial,back,pointed,,hand-palm,sagittal,low-high,sraight,,,,,,back,,laceration,
+объявлять,1-st,,straight-curved,,tips,back,,,head-high,,near-far,arc,,,,,,,,symmetrical,
+аннулировать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,tips,ulnar,pointed,,space,parallel,high-low; ipsi-contra; high-low; contra-ipsi,sraight,,,,,,,,,
+извиняться,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,root,wide,,hand-palm,horisontal,contra-ipsi,sraight,,,,,,back,,alternating,
+обращаться к,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,radial,pointed,,head-low,horisontal,near-far,sraight,,,,,,,,symmetrical,
+аплодировать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,tips,wide,prone-supine,space,sagittal,low-high,sraight,,,,,,,,repeated; symmetrical; alternating,
+думать,1-st,,straight,straight,palm,tips,,,head-high,,far-near,sraight,,,,,,,,,
+проникать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,wide,,hand-palm,sagittal,proxi-distal,sraight,,,,,,,,symmetrical,
+возникать,1-st,closed-open,curved-straight,,palm,tips,,,hand-narrow,horisontal,low-high,sraight,,,,,,palm,,tense,
+арестовывать,1-st,,straight,straight,palm,ulnar,,prone-neutral,virtual object; space,horisontal,proxi-distal,arc,,,,,,,,symmetrical,
+вознестись,1-st; 2-nd; 3-rd; 4-th,,straight,straight,back,palm,pointed,,space,horisontal,low-high,vawe,,,,,,,,symmetrical,
+спрашивать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,tips,pointed,,head-low,,near-far,sraight,,,,,,,,,
+собирать,1-st; 2-nd; 3-rd; 4-th,closed-open,curved-straight,,palm,tips,pointed-wide,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical,
+поручать,1-st,closed-open,curved-straight,,palm,tips,,,hand-classifier; space,horisontal,x-y,sraight,,,,,,palm,,tense,
+думать,1-st,,straight,straight,palm,tips,,,head-high,,far-near,sraight,,,,,,,,,
+наверное,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,back,back,pointed,,hand-palm,horisontal,far-near,sraight,,,,,,back,,repeated,
+прикладывать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,back,ulnar,pointed,,hand-classifier,horisontal,near-far,sraight,1-st; 2-nd; 3-rd; 4-th,open,straight,straight,pointed,back,,repeated,
+нападать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,tips,wide,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical,
+посещать,1-st; 2-nd,,curved,,palm,tips,wide,,hand-back; space,horisontal,x-y,arc,,,,,,,,,
+видно,1-st,,straight,bent,palm,tips,,,head-high,,far-near,sraight,,,,,,,,,
+привлекать,"1-st, 2-nd, 3-rd, 4-th",,,straight-bent,palm,root,wide,,trunk,,far-near,sraight,,,,,,,,"repeated, symmetrical",
+dem,2-nd,,straight,bent,palm,tips,pointed,,trunk,,far-near,sraight,,,,,,,,symmetrical,
+быть пригодным,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,back,tips,pointed,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical,
+мстить,1-st; 2-nd,,straight,straight,ulnar,back,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,symmetrical; tense,
+избегать,1-st; 2-nd,,curved,,tips,back,wide,prone-neutral,space,horisontal,contra-ipsi,sraight,,,,,,,,symmetrical; repeated,
+ожидать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,radial,root,pointed,,trunk,,high-low,sraight,,,,,,,,repeated,
+просыпаться,1-st,closed-open,straight,bent,radial,,,,head-high,,,,,,,,,,,symmetrical,
+печь,1-st; 2-nd; 3-rd; 4-th,,straight,straight,back,tips,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,repeated; symmetrical,
+запрещать,1-st,,,,ulnar,,,,hand-palm,horisontal,far-near,sraight,,,,,,back,,tense,
+крестить,1-st; 2-nd,,straight,straight,palm,palm,pointed,,space,horisontal,high-low,sraight,,,,,,,,repeated; symmetrical; crossed,
+разрешить,1-st,closed,curved,,ulnar,tips,,,space,horisontal,x-y,arc,,,,,,,,symmetrical,
+называть,1-st,,straight,straight,tips,radial,,,hand-classifier; space,horisontal,low-high,sraight,thumb,,,,,ulnar,,repeated,
+терпеть,1-st; 2-nd; 3-rd; 4-th,,straight,straight,root,ulnar,pointed,,trunk,,high-low,sraight,,,,,,,,tense,
+клянчить,1-st; 2-nd; 3-rd; 4-th,,straight,bent,back,tips,pointed,,space,horisontal,proxi-distal; ipsi-contra,vawe,,,,,,,,repeated,
+начинать,1-st,,straight,straight,radial,tips,,,hand-palm; space,parallel,low-high,sraight,,,,,,palm,,,
+принадлежать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,,,pointed,prone-neutral,space,horisontal,,,,,,,,,,symmetrical,
+ему,1-st,,straight,straight,palm,tips,,,space,horisontal,x-y,sraight,,,,,,,,repeated,
+пристегиваться,1-st,open,curved,,palm,tips,,,trunk,,ipsi-contra,sraight,,,,,,,,symmetrical; repeated,
+ спорить,1-st,,straight,straight,tips,radial,,,space,sagittal,low-high,sraight,,,,,,,,symmetrical; alternating; repeated,
+предавать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,,,,prone-neutral,head-mid,,,,,,,,,,,,
+ездить на велосипеде,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,tips,wide,,space,horisontal,x-y; high-low,sraight,,,,,,,,symmetrical; repeated,
+кусать,1-st; 2-nd; 3-rd; 4-th,open-closed,curved,,back,tips,wide,,head-low,,,,,,,,,,,tense,
+вина,"1-st, 2-nd",closed,straight,bent,,tips,pointed,neutral-prone,head-mid,,near-far,arc,,,,,,,,tense,
+dem,1-st,,straight,straight,palm,tips,,,space,horisontal,x-y,sraight,,,,,,,,,
+гореть,1-st; 2-nd; 3-rd,,straight,straight,root,tips,wide,,space,horisontal,low-high,vawe,,,,,,,,symmetrical; alternating,
+смешивать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,tips,,wide,,space,horisontal,,circle-clock; circle-counterclock,,,,,,,,symmetrical; alternating; repeated,
+мигать,1-st; 2-nd,,straight,straight,palm,,wide-pointed,,head-high,,,,,,,,,,,repeated,
+блокировка,,,,,palm,palm,,,hand-back,horisontal,far-near,sraight,,,,,,,,symmetrical,
+взрывать,,,,,palm,radial,,,space,parallel,contra-ipsi; low-high,sraight,,,,,,,,symmetrical; tense,
+задувать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight,bent,root,tips,wide-pointed,,space,horisontal,high-low,vawe,,,,,,,,symmetrical,
+покраснеть,1-st; 4-th,,straight,straight,tips,back,,,head,,low-high,sraight,,,,,,,,,
+бомбить,1-st,,straight,straight,radial,back,,,hand-classifier; space,horisontal,low-high; contra-ipsi,,1-st; 4-th,,straight,straight,,palm,tips,repeated,
+отскакивать,1-st; 2-nd,,straight-curved,straight,tips,root,wide,,hand-palm,horisontal,near-far,sraight,,,,,,back,,repeated,
+ограничивать,1-st,,straight,straight,ulnar,palm,,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical,
+сгибать,,,,,,ulnar,,prone-neutral,space,sagittal,high-low,,,,,,,,,symmetrical,
+поклониться,,,,,root,,,neutral-forward,space,horisontal,,,,,,,,,,,
+хвастаться,thumb,,straight,straight,palm,tips,,,trunk,,low-high,sraight,,,,,,,,repeated,
+расстаться,thumb,,straight,straight,ulnar,back,,,space,horisontal,contra-ipsi,sraight,,,,,,,,symmetrical,
+дышать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,back,pointed,,trunk,,near-far,sraight,,,,,,,,biderectional,
+приносить,1-st; 2-nd; 3-rd; 4-th,,straight,straight,back; palm,ulnar,pointed,,space; virtual object,horisontal,ipsi-contra; contra-ipsi,arc,,,,,,,,symmetrical,
+,1-st,,straight,straight,palm,ulnar,,,space,parallel,high-low,arc,,,,,,,,symmetrical,
+строить,1-st; 2-nd,,straight,straight,palm,back,pointed,,space,horisontal,low-high,sraight,,,,,,,,symmetrical; alternating; repeated; crossed; laceration,
+запугивать,1-st,,straight,straight,ulnar,tips,,,space,horisontal,proxi-distal,sraight,,,,,,,,symmetrical; repeated,
+гореть,1-st; 2-nd; 3-rd,,straight,straight,root,tips,wide,,space,horisontal,low-high,vawe,,,,,,,,symmetrical; alternating,
+разрыдаться,1-st; 2-nd; 3-rd; 4-th,closed-open,curved-straight,,palm,tips,pointed-wide,,head-high,,near-far,sraight,,,,,,,,symmetrical; tense,
+хоронить,1-st; 2-nd; 3-rd; 4-th,,curved,bent,palm,palm,pointed,,virtual object; space,horisontal,high-low,sraight,,,,,,,,symmetrical; crossed,
+покупать,1-st; 2-nd; 3-rd; 4-th,closed,straight,bent,tips,back,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,repeated,
+требовать,1-st,,straight,straight,tips,tips,,,space,horisontal,distal-proxi,arc,,,,,,,,tense,
+не мочь,1-st; 2-nd; 3-rd; 4-th,,straight,straight,radial,radial,pointed,,trunk,,far-near,sraight,,,,,,,,,
+не мочь,1-st; 2-nd; 3-rd; 4-th,,straight,straight,radial,radial,pointed,,trunk,,far-near,sraight,,,,,,,,,
+капитулировать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,,back,pointed,,space,parallel,iconic,iconic,,,,,,,,symmetrical,
+опрокидывать,,open-closed,straight,bent,palm,,wide-pointed,prone-supine,virtual object; space,horisontal,,,,,,,,,,symmetrical,
+забота,"1-st, 2-nd, 3-rd, 4-th",,curved,bent,palm,palm,wide,,"virtual object, space",horisontal,far-near,arc,,,,,,,,symmetrical,
+multiply,,,,,,,,,space,parallel,ipsi-contra,sraight,,,,,,,,repeated,
+ласкать,1-st; 2-nd; 3-rd; 4-th,,,straight-bent,tips,palm,,,hand-back,horisontal,distal-proxi,sraight,,,,,,palm,,repeated,
+нести,,,,,back,root,,,virtual object; space,horisontal,low-high,sraight,,,,,,,,repeated,
+швырять,1-st; 2-nd; 3-rd; 4-th,closed-open,,,palm,tips,pointed-wide,forward-neutral,space; virtual object,horisontal,proxi-distal,sraight,,,,,,,,tense,
+менять,1-st; 2-nd,,straight,straight,,,wide,prone-supine; supine-prone,space,,,,,,,,,,,symmetrical; crossed,
+голос,1-st,,straight,straight,tips,tips,,,neck,,far-near,sraight,,,,,,,,,
+музыка,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,radial,pointed,,space,parallel,ipsi-contra,arc,,,,,,,,"symmetrical, crossed, repeated, alternating, biderectional",
+преследовать,thumb,,,,tips; ulnar,tips,,,hand-classifier; space,horisontal,far-near,spiral,thumb,,,,,ulnar,,symmetrical,
+болтать,1-st; 2-nd; 3-rd; 4-th,,straight,bent-straight,root,tips,wide,,head-low; space,horisontal,x-y,,,,,,,,,repeated; symmetrical; alternating,
+обманывать,1-st; 4-th,,straight,straight,palm,tips,,,hand-narrow; space,horisontal,x-y,sraight,,,,,,,,,
+выбирать,1-st,closed,curved,,tips,back,,,hand-classifier; space,sagittal,distal-proxi,sraight,1-st; 2-nd; 3-rd; 4-th,,straight,straight,pointed,back,,repeated,
+чистить,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,ulnar,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,repeated; biderectional,
+очищать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,ulnar,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,tense,
+карабкаться,1-st; 2-nd; 3-rd; 4-th,,curved,straight,palm,tips,wide,,virtual object; space,parallel,low-high,sraight,,,,,,,,symmetrical; repeated; alternating,
+совпадать,1-st,,straight,straight,palm,tips,,,space,parallel,ipsi-contra,sraight,,,,,,,,symmetrical; repeated,
+рухнуть,1-st; 2-nd,,straight,straight,back,tips,wide,prone-supine,hand-palm,horisontal,far-near,circle-clock,,,,,,,,,
+приходить,1-st; 2-nd,,curved,straight,palm,tips,wide,supine-prone,hand-narrow,parallel,far-near,arc,,,,,,,,,
+согласиться,thumb; 1-st,,straight,straight,ulnar,tips,,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical,
+начинать,1-st,,straight,straight,radial,tips,,,hand-palm,parallel,low-high,sraight,,,,,,,,,
+совершать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,ulnar,pointed,,hand-palm,horisontal,far-near,sraight,,,,,,back,,tense,
+общаться,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,palm,pointed,,space,horisontal,distal-proxi,sraight,,,,,,,,repeated; symmetrical; alternating; biderectional,
+сопоставлять,1-st,,straight,straight,back,tips,,,space,parallel,ipsi-contra; high-low,sraight,,,,,,,,symmetrical; repeated,
+думать,1-st,,straight,straight,palm,tips,,,head-high,,far-near,sraight,,,,,,,,,
+ясно,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,root,wide,,"virtual object, space",horisontal,distal-proxi,sraight,,,,,,,,"symmetrical, tense",
+учить,"1-st, 2-nd",closed,straight,bent,radial,tips,pointed,,head-high,,ipsi-contra,arc,,,,,,,,repeated,
+проникать,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,wide,,hand-palm,sagittal,proxi-distal,sraight,,,,,,,,"symmetrical, laceration",
+концентрироваться,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,tips,pointed,,head,,near-far,sraight,,,,,,,,symmetrical; tense,
+беспокоиться,1-st; 2-nd; 3-rd; 4-th,open,curved,straight,palm,radial,pointed,,trunk,,low-high,sraight,,,,,,,,repeated; symmetrical; alternating,
+судить,1-st,closed,curved,,ulnar,radial,,,space,horisontal,low-high,sraight,,,,,,,,repeated; symmetrical; alternating; biderectional,
+подтверждать,,,,,ulnar,ulnar,,,hand-palm,horisontal,near-far,sraight,,,,,,,,,
+здравствуйте,"1-st, 2-nd, 3-rd, 4-th",,,,tips,radial,pointed,,trunk,,low-high,sraight,,,,,,,,"repeated, symmetrical",
+давать,"1-st, 2-nd, 3-rd, 4-th",open,straight,straight,ulnar,radial,pointed,,trunk,,near-far,arc,,,,,,,,symmetrical,
+соединять,1-st,,curved,straight,palm,tips,,supine-prone,hand-classifier; space,horisontal,far-near,arc,1-st,,curved,straight,,back,,symmetrical; crossed,
+захватывать,1-st; 2-nd; 3-rd; 4-th,open-closed,curved,bent,palm,palm,wide-pointed,,space,horisontal,high-low,sraight,,,,,,,,symmetrical; tense,
+освящать,1-st; 2-nd; 3-rd,closed-open,curved-straight,bent-straight,palm,ulnar,pointed-wide,,space,parallel,contra-ipsi; ,arc,,,,,,,,symmetrical,
+сберегать,1-st; 2-nd; 3-rd; 4-th,open,curved,bent,palm,palm,wide,,virtual object,horisontal,far-near,arc,,,,,,,,symmetrical; repeated,
+устанавливать,thumb; 1-st; 2-nd,,straight,straight,palm,palm,wide,,hand-palm,horisontal,far-near,spiral,,,,,,back,,tense,
+сдерживать,,,,,,,,,trunk,,high-low; far-near,sraight,,,,,,,,symmetrical,
+строить,1-st; 2-nd,,straight,straight,palm,back,pointed,,space,horisontal,low-high,arc,,,,,,,,symmetrical; repeated; alternating; crossed,
+консультировать,1-st,closed,curved,straight,ulnar,tips,,,space,horisontal,proxi-distal,circle-clock,,,,,,,,repeated; symmetrical; alternating; crossed,
+потреблять,1-st,closed,curved,straight,,tips,,neutral-prone,trunk,,far-near,arc,,,,,,,,,
+сократить,1-st,,straight,straight,,palm,,prone-neutral,space,horisontal,ipsi-contra,arc,,,,,,,,tense; symmetrical,
+вкладывать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight,bent,radial,tips,wide-pointed,,hand-palm,sagittal,proxi-distal,sraight,,,,,,,,,
+контролировать,1-st; 2-nd,,straight,straight,tips,ulnar,wide,,space,horisontal,contra-ipsi; ipsi-contra; x-y,sraight,,,,,,,,symmetrical; tense,
+собираться,1-st; 2-nd; 3-rd; 4-th,closed-open,curved-straight,bent-straight,palm,tips,wide,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical,
+разговаривать,1-st,,straight,straight,radial,ulnar,,,head-low,,near-far,sraight,,,,,,,,repeated; symmetrical; alternating,
+конвертировать,1-st; 2-nd,,straight,straight,,,wide,prone-neutral; neutral-prone,space,parallel,,,,,,,,,,symmetrical; alternating,
+убеждать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight,bent,back,tips,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,symmetrical,
+копировать,1-st; 2-nd,open-closed,straight,bent,tips,,pointed,,hand-palm,horisontal,,,,,,,,back,,repeated,
+исправлять,1-st; 2-nd,closed,straight,bent,palm,tips,pointed,,hand-narrow; space,parallel,proxi-distal; x-y,sraight,,,,,,,,symmetrical; repeated; biderectional,
+кашлять,1-st; 2-nd; 3-rd; 4-th,,straight,bent,tips,,pointed,neutral-supine,trunk,,,,,,,,,,,repeated,
+считать,2-nd,,straight,bent,tips,tips,,,hand-palm,horisontal,far-near,iconic,,,,,,back,,repeated,
+подделывать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight,bent,radial,tips,pointed,,head,,ipsi-contra,arc,,,,,,,,symmetrical; alternating,
+закрывать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,radial,pointed,supine-prone,virtual object; space,parallel,ipsi-contra,iconic,,,,,,,,symmetrical,
+ползать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,tips,pointed,,space,horisontal,proxi-distal,arc,,,,,,,,repeated; symmetrical; alternating,
+обрезать,1-st; 2-nd,,straight,straight,ulnar,tips,wide-pointed,,virtual object; space,horisontal,ipsi-contra,iconic,,,,,,,,repeated,
+короновать,1-st; 2-nd; 3-rd; 4-th,open,straight,straight,ulnar,ulnar,wide,,head-high,,high-low,sraight,,,,,,,,symmetrical,
+мять,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,straight-bent,palm,palm,wide-pointed,,virtual object,parallel,ipsi-contra,iconic,,,,,,,,symmetrical,
+плакать,1-st,,straight,straight,palm,root,,neutral-supine,head-mid,,high-low,sraight,,,,,,,,symmetrical; repeated,
+разрезать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,tips,ulnar,pointed,,hand-back,horisontal,distal-proxi,sraight,,,,,,palm,,tense,
+танцевать,1-st; 2-nd,,straight,straight,root,,wide,supine-prone,space,horisontal,,,,,,,,,,symmetrical; repeated; alternating,
+отважиться,,,,,root,palm,,,space,horisontal,proxi-distal; contra-ipsi,arc,,,,,,,,symmetrical,
+объявлять,1-st,,straight-curved,straight,tips,back,,,head-high,,contra-ipsi,arc,,,,,,,,symmetrical,
+приказать,1-st; 2-nd; 3-rd; 4-th,closed-open,curved-straight,bent-straight,root,palm,pointed,,hand-back,horisontal,proxi-distal,sraight,,,,,,,,symmetrical; tense,
+побеждать,,,,,root,,,supine-prone,space,horisontal,,,,,,,,,,tense,
+защищать,1-st; 2-nd; 3-rd; 4-th,,curved,bent,root,palm,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,symmetrical,
+грязь,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,palm,wide,,hand-palm,horisontal,far-near,sraight,,,,,,,,symmetrical,
+direction,,,,,ulnar,tips,,,space,horisontal,"contra-ipsi, proxi-distal",sraight,,,,,,,,symmetrical,
+уменьшать,1-st; 2-nd; 3-rd; 4-th,,straight,bent,ulnar,palm,pointed,,virtual object; space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical,
+отказываться,1-st; 2-nd; 3-rd; 4-th,,straight,bent-straight,tips,back,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,tense,
+задерживать,,,,,ulnar,root,,,space,horisontal,distal-proxi,sraight,,,,,,,,symmetrical,
+удалять,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,palm,pointed,,hand-narrow,horisontal,distal-proxi,sraight,,,,,,,,,
+доставлять,thumb; 1-st,,curved,straight,palm,palm,,,virtual object; space,horisontal,ipsi-contra; contra-ipsi,arc,,,,,,,,symmetrical,
+отвергать,1-st; 2-nd; 3-rd; 4-th,,straight,bent-straight,tips,back,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,tense,
+удалять волосы,1-st,closed,curved,,tips,back,,,head-high,,near-far,sraight,,,,,,,,repeated; symmetrical; alternating,
+лишать,1-st; 2-nd,,straight,straight,ulnar,palm,pointed,,hand-narrow,sagittal,distal-proxi,arc,,,,,,,,symmetrical; tense,
+спускаться,1-st; 2-nd,,curved,straight-bent,tips,tips,wide,,space,horisontal,high-low; ipsi-contra,sraight,,,,,,,,repeated,
+отчаяться,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,palm,pointed,,hand-palm; trunk,,far-near,sraight,,,,,,ulnar,,tense,
+видеть,1-st,,straight,straight,tips,tips,,,head-high,,far-near,sraight,,,,,,,,,
+ненавидеть,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,root,palm,wide,,space,horisontal,proxi-distal,sraight,,,,,,,,,
+разрушать,1-st; 2-nd; 3-rd; 4-th,,straight,bent-straight,ulnar,tips,pointed,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical; crossed,
+разъединять,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,palm,pointed,,hand-back,horisontal,distal-proxi,arc,,,,,,palm,,biderectional,
+ухудшаться,1-st; 2-nd; 3-rd; 4-th,,straight,straight,radial,palm,pointed,,hand-palm,sagittal,high-low,sraight,,,,,,,,,
+посвящать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,tips,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,symmetrical,
+диктовать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,back,pointed,,head-low; space,parallel,near-far; high-low,vawe,,,,,,,,,
+выполнить,1-st; 2-nd; 4-th; 3-rd,,straight,straight,palm,tips,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,,
+копать,1-st; 2-nd; 3-rd; 4-th,,straight,bent,,ulnar,pointed,supine-prone,space,horisontal,ipsi-contra,sraight,,,,,,,,repeated,
+уменьшать,1-st; 2-nd; 3-rd; 4-th,,straight,bent,palm,palm,pointed,,virtual object; space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical,
+окунать,1-st,closed,curved,straight,tips,tips,,,space,horisontal,high-low,sraight,,,,,,,,repeated; symmetrical,
+исчезать,1-st; 2-nd; 3-rd; 4-th,closed,straight-curved,bent,palm,root,pointed,,head,,contra-ipsi,sraight,,,,,,,,symmetrical,
+отпускать,1-st,closed,curved,straight,ulnar,tips,,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical,
+рассоединять,thumb; 1-st,,curved,straight,tips,root,,,hand-palm,sagittal,near-far,sraight,,,,,,,,,
+видеть,1-st,,straight,straight,tips,tips,,,head-high,,far-near,sraight,,,,,,,,,
+заметить,1-st,open,curved,straight,palm,palm,,,hand-back,parallel,far-near,sraight,,,,,,,,,
+не.нравиться,1-st,closed,curved,straight,tips,tips,,neutral-prone,head-low,,near-far,sraight,,,,,,,,tense,
+разбирать,1-st; 2-nd,,straight-curved,straight,palm,root,wide,,space,horisontal,contra-ipsi,sraight,,,,,,,,repeated; symmetrical; crossed,
+распространять,1-st; 2-nd; 3-rd; 4-th,closed,straight,bent,back,radial,pointed,,space,horisontal,proxi-distal; contra-ipsi,arc,,,,,,,,laceration; symmetrical; repeated,
+нырять,1-st; 2-nd,,straight,bent-straight,root,root,wide,,space,horisontal,high-low; contra-ipsi,iconic,,,,,,,,repeated,
+разделять,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,tips,pointed,,space,horisontal,proxi-distal; contra-ipsi,arc,,,,,,,,symmetrical,
+разделять,1-st; 2-nd; 3-rd; 4-th,,straight,bent-straight,ulnar,ulnar,pointed,,hand-palm,horisontal,far-near,sraight,,,,,,back,,repeated,
+заниматься.гимнастикой,1-st; 2-nd; 3-rd; 4-th,,straight,straight,tips,tips,pointed,,shoulder,,far-near,sraight,,,,,,,,symmetrical; alternating; repeated,
+доминировать,1-st,,,,ulnar,back,,,hand-palm; space,horisontal,proxi-distal,sraight,,,,,,,,,
+не.знать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,back,pointed,,head-high,,near-far; contra-ipsi,sraight,,,,,,,,symmetrical,
+не.понимать,1-st,,curved,straight,radial,root,,,head-mid,,high-low,sraight,,,,,,,,,
+вздремнуть,1-st,open-closed,straight,straight-bent,radial,,,,head-high,,,,,,,,,,,symmetrical,
+тянуть,,,,,tips; back,radial,,,virtual object; space,horisontal,contra-ipsi; ipsi-contra,sraight,,,,,,,,symmetrical,
+рисовать,1-st; 2-nd,,straight,straight,back,root,pointed,,hand-palm,sagittal,high-low,vawe,,,,,,,,,
+мечтать,1-st; 2-nd; 3-rd; 4-th,,straight,straight-bent,palm,,wide,,head-high,,,,,,,,,,,repeated,
+дрейфовать,1-st; 2-nd; 3-rd; 4-th,,straight,straight-bent,palm,palm,wide,,virtual object; space,horisontal,ipsi-contra,sraight,,,,,,,,repeated; symmetrical; biderectional,
+сверлить,1-st,,straight,straight,tips,tips,,,space,horisontal,high-low,iconic,,,,,,,,,
+пить,1-st; 2-nd; 3-rd; 4-th,open,straight,bent,radial,radial,pointed,neutral-prone,head-low,,far-near,arc,,,,,,,,,
+капать,1-st,closed-open,straight,bent,tips,tips,,,space,horisontal,high-low,sraight,,,,,,,,biderectional,
+полить,thumb; 4-th,,straight,straight,ulnar,tips,,,hand-palm,horisontal,iconic,circle-counterclock,,,,,,,,,
+выбыть,1-st; 2-nd,,curved,straight,tips,tips,wide,,hand-palm,horisontal,near-far,arc,,,,,,,,,
+зарабатывать,1-st; 2-nd; 3-rd; 4-th,,curved,bent,back; palm,ulnar,pointed,,hand-palm; virtual object,horisontal,distal-proxi,sraight,,,,,,back,,repeated,
+есть,1-st; 2-nd; 3-rd; 4-th,closed,straight,bent,tips,tips,pointed,,head-low,,far-near,sraight,,,,,,,,repeated,
+наставлять,1-st; 2-nd,closed,straight,bent,root,tips,pointed,,hand-back,horisontal,proxi-distal,sraight,,,,,,palm,,repeated,
+редактировать,1-st; 2-nd,closed,straight,bent,root,ulnar,pointed,,hand-narrow; space,parallel; horisontal,contra-ipsi; near-far,sraight; sraight,,,,,,palm,,repeated; biderectional,tips
+обучать,1-st; 2-nd,closed,straight,bent,root,tips,pointed,,hand-narrow,horisontal,proxi-distal,sraight,,,,,,palm,,repeated,
+выбирать,1-st,open-closed,curved,straight,radial,back,,,hand-palm,sagittal,distal-proxi,sraight,,,,,,,,,
+поднимать,,,,,ulnar,radial,,supine-prone,space,horisontal,low-high,sraight,,,,,,,,repeated,
+уничтожать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,straight-bent,palm,tips,wide-pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,,,,
+вышивать,1-st,closed,curved,straight,tips,back,,,space,horisontal,high-low; contra-ipsi,sraight,,,,,,,,repeated; symmetrical; alternating; crossed,ulnar
+возникать,1-st,closed-open,curved-straight,bent-straight,back,tips,,,space,horisontal,low-high,sraight,,,,,,,,tense,
+видно,1-st,,straight,straight,tips,tips,,,head-mid,,far-near,sraight,,,,,,,,,
+обращать.внимание,1-st,,straight,straight,tips,tips,,,head-mid,,far-near,sraight,,,,,,,,,
+нанимать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,back,ulnar,pointed,,space,horisontal,distal-proxi; ipsi-contra; contra-ipsi,arc,,,,,,,,symmetrical,
+позволять,1-st,closed,curved,straight,ulnar,tips,,,space,horisontal,proxi-distal; contra-ipsi,arc,,,,,,,,symmetrical,
+гравировать,thumb,,straight,straight,tips,tips,,prone-supine,hand-palm,horisontal,distal-proxi,vawe,,,,,,,,,
+увеличивать,thumb; 4-th,,straight,straight,palm,back,,,virtual object,horisontal,contra-ipsi; low-high,arc,,,,,,,,symmetrical,
+входить,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,tips,pointed,,hand-back,horisontal,proxi-distal,arc,,,,,,,,,
+завидовать,1-st,open,straight-curved,straight,tips,,,,trunk,,,,,,,,,,,repeated; symmetrical,
+стирать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,ulnar,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,,,,
+сбегать,1-st; 2-nd,closed-open,curved-straight,bent-straight,back,tips,pointed-wide,,hand-palm,horisontal,proxi-distal,sraight,,,,,,,,,
+уклоняться,,,straight,bent-straight,palm,root,wide,,space,parallel,contra-ipsi; low-high; high-low,sraight,,,,,,,,repeated; symmetrical,
+выкапывать,1-st; 2-nd; 3-rd; 4-th,,curved,bent,palm,ulnar,pointed,supine-prone,space; virtual object,horisontal,ipsi-contra,iconic,,,,,,,,repeated,
+преувеличивать,thumb; 4-th,,straight,straight,palm,back,,,space,horisontal,low-high; contra-ipsi,arc,,,,,,,,symmetrical,
+обменивать,1-st; 2-nd,,straight,straight,,,wide,prone-supine; supine-prone,space,,,,,,,,,,,symmetrical; alternating; crossed,
+прощать,1-st,closed,curved,straight,tips,tips,,neutral-prone,head-low,,near-far,sraight,,,,,,,,,
+выдыхать,1-st; 2-nd; 3-rd; 4-th,,straight,bent,palm,back,wide,,trunk,,near-far,sraight,,,,,,,,biderectional,
+истощать,1-st,open-closed,straight,bent,tips,tips,,prone-supine,hand-palm,horisontal,far-near,sraight,,,,,,back,,repeated,
+видеть,1-st,,straight,straight,tips,tips,,,head-mid,,far-near,sraight,,,,,,,,,
+выставлять.картины,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,"palm, ulnar",,,space,parallel,"near-far, contra-ipsi",arc,,,,,,,,"symmetrical, repeated, alternating",
+существовать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,ulnar,pointed,,hand-palm,horisontal,far-near,sraight,,,,,,back,,repeated,
+ожидать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,radial,root,pointed,,trunk,,high-low,sraight,,,,,,,,repeated,
+взрывать,,,,,palm,radial,,,space,parallel,contra-ipsi; low-high,sraight,,,,,,,,symmetrical; crossed; tense,
+видеть,1-st,,straight,straight,tips,tips,,,head-mid,,far-near,sraight,,,,,,,,,
+замечать,1-st,open,curved,straight,tips,tips,,,hand-back,horisontal,far-near,sraight,,,,,,,,,
+выражать,"1-st, 2-nd, 3-rd, 4-th",,,,palm,radial,wide,,trunk,,low-high,sraight,,,,,,,,symmetrical,
+давать,"1-st, 2-nd, 3-rd, 4-th",,,,back,radial,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,symmetrical,
+создавать,1-st,,straight,straight,tips,tips,,prone-supine,space,parallel,ipsi-contra,arc,,,,,,,,symmetrical,
+облегчать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,tips,palm,pointed,,head-low,,contra-ipsi,sraight,,,,,,,,symmetrical,
+затухать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,straight-bent,back,root,wide-pointed,,space,parallel,high-low,vawe,,,,,,,,symmetrical,
+падать,1-st; 2-nd,,straight,straight,tips; back,,wide,prone-supine,hand-palm,horisontal,,,,,,,,,,,
+пукать,,,,,,,,neutral-prone,space,,,,,,,,,,,repeated; symmetrical,
+кормить,thumb; 1-st,,curved,straight,tips,tips,,,space,sagittal,far-near,sraight,,,,,,back,,repeated,
+чувствовать,1-st,,straight,straight,tips,tips,,,hand-back,horisontal,far-near,sraight,,,,,,palm,,biderectional; tense,
+воевать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,tips,wide,,space,horisontal,proxi-distal; ipsi-contra; contra-ipsi,sraight,,,,,,,,tense; symmetrical,
+финансировать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight,bent,back,tips,pointed,,hand-palm,horisontal,far-near,sraight,,,,,,back,,repeated,
+подходить,1-st,,straight,straight,back,tips,,,space,parallel,high-low; low-high,sraight,,,,,,,,symmetrical; crossed,
+вспыхнуть,1-st; 2-nd; 3-rd; 4-th,closed-open,curved-straight,bent-straight,back,tips,pointed-wide,,space,parallel,low-high,sraight,,,,,,,,symmetrical; tense,
+убежать,1-st; 2-nd,closed-open,curved-straight,bent-straight,back,tips,pointed-wide,,hand-palm,horisontal,proxi-distal,sraight,,,,,,palm,,tense,
+сгибать,,,,,palm,,,prone-neutral,virtual object,horisontal,,,,,,,,,,symmetrical,
+течь,1-st; 2-nd; 3-rd; 4-th,,straight,straight-bent,palm,tips,wide,,space,horisontal,ipsi-contra; contra-ipsi,sraight,,,,,,,,repeated; symmetrical,
+получиться,"1-st, 2-nd, 3-rd, 4-th",open-closed,straight-curved,straight-bent,back,ulnar,pointed,,hand-palm,horisontal,far-near,arc,,,,,,,,,
+нет,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,ulnar,pointed,,space,horisontal,"contra-ipsi, proxi-distal",sraight,,,,,,,,,
+трепетать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm; ,,wide,,space,horisontal,ipsi-contra,sraight,,,,,,,,repeated; symmetrical; biderectional; alternating,
+летать.на.самолете,1-st; 4-th,,straight,straight,palm,tips,,,space,horisontal,ipsi-contra; low-high,sraight,,,,,,,,,
+фокусировать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,bent-straight,radial,palm,pointed,,head,,ipsi-contra,sraight,,,,,,,,symmetrical; crossed,
+преследовать,thumb,,straight,straight,back; ulnar,back,,,hand-classifier; space,horisontal,far-near,vawe,thumb,,straight,straight,,ulnar,,symmetrical,
+"отслеживать, мониторить",1-st; 2-nd,,straight,straight,tips,palm,wide,,space,parallel,high-low; contra-ipsi,sraight,,,,,,,,symmetrical; repeated,ulnar
+запрещать,1-st,,straight,straight,ulnar,ulnar,,,hand-back,horisontal,far-near,sraight,,,,,,palm,,repeated,
+забывать,thumb; 2-nd; 3-rd; 4-th,open-closed,straight,bent,tips,palm,pointed,,head-high,,contra-ipsi,sraight,,,,,,,,,
+замораживать,,,,,back,ulnar,,prone-neutral,space,parallel,high-low,arc,,,,,,,,symmetrical,
+часто посещать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,tips,pointed,,hand-back; space,horisontal,proxi-distal; ipsi-contra,sraight,,,,,,palm,,repeated,
+беспокоиться,1-st; 2-nd; 3-rd; 4-th,open,curved,straight,tips,radial,pointed,,trunk,,low-high,sraight,,,,,,,,repeated; symmetrical; alternating,
+заниматься.сексом,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,tips,pointed,,trunk,,ipsi-contra,sraight,,,,,,,,repeated; symmetrical; crossed,
+потолстеть,,,,,ulnar,back,,,space,horisontal,contra-ipsi,sraight,,,,,,,,symmetrical; laceration,
+преклонять колени,1-st; 2-nd,,straight-curved,straight,tips,,wide,,hand-palm,horisontal,,,,,,,,,,,
+уезжать,1-st,open-closed,straight,bent,root,tips,,,space,horisontal,proxi-distal; ipsi-contra; contra-ipsi,arc,,,,,,,,symmetrical,
+одеться,1-st; 2-nd; 3-rd; 4-th,closed,straight,bent,tips,back,pointed,,trunk,,ipsi-contra,arc,,,,,,,,symmetrical,
+избавиться,,,,,,ulnar,,supine-prone,space,sagittal,high-low,,,,,,,,,symmetrical,
+хихикать,1-st; 2-nd,,curved,straight,tips,tips,wide,,head-low,,far-near,sraight,,,,,,,,repeated,
+давать,1-st; 2-nd; 3-rd; 4-th,open,straight,straight,,radial,pointed,neutral-supine,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical,
+возвращать,1-st; 2-nd,,straight,straight,,back,wide,neutral-prone,space,horisontal,distal-proxi,sraight,,,,,,,,,
+сдаваться,1-st; 2-nd; 3-rd; 4-th,,straight,straight,,back,pointed,,space,parallel,iconic,iconic,,,,,,,,symmetrical,
+видеть,1-st,,straight,straight,tips,tips,,,head-mid,,far-near,sraight,,,,,,,,,
+взглянуть,"1-st, 2-nd",,straight,straight,tips,ulnar,wide,,space,horisontal,contra-ipsi,arc,,,,,,,,,
+идти,1-st; 2-nd; 3-rd; 4-th,open,straight,straight,back,radial,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,repeated; symmetrical; alternating,
+входить,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,tips,pointed,,hand-back,horisontal,proxi-distal,arc,,,,,,,,,
+выходить,1-st; 2-nd; 3-rd; 4-th,,straight,straight,back,tips,pointed,,hand-palm,horisontal,proxi-distal,arc,,,,,,,,,
+схватить,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,straight-bent,palm,palm,wide-pointed,,virtual object; space,horisontal,far-near; high-low,sraight,,,,,,,,symmetrical; tense,
+думать,1-st,,straight,straight,tips,tips,,,head-high,,far-near,sraight,,,,,,,,,
+проникнуть,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,wide,,hand-palm,sagittal,proxi-distal,sraight,,,,,,,,,
+натирать.на.терке,1-st; 2-nd; 3-rd; 4-th,,curved,bent,palm,ulnar,pointed,,hand-palm,horisontal,proxi-distal,sraight,,,,,,back,,repeated; biderectional,
+приветствовать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,ulnar,pointed,,space,parallel,contra-ipsi,arc,,,,,,,,repeated,
+крепко держать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,straight-bent,palm,,wide-pointed,,space,horisontal,,,,,,,,,,symmetrical,
+стонать,1-st,open,curved,straight,radial,ulnar,,,head-low,,near-far; contra-ipsi,sraight,,,,,,,,symmetrical,
+шептаться,1-st; 2-nd,open-closed,straight,straight,radial,,pointed,,head-low,,,,,,,,,,,repeated; symmetrical,
+обмануть,"1-st, 4-th",,straight,straight,palm,"palm, tips",,,"hand-back, space",horisontal,"distal-proxi, proxi-distal",sraight,,,,,,palm,,repeated,
+всех,,,,,,ulnar,,,space,horisontal,contra-ipsi,arc,,,,,,palm,,,
+бить.молотком,,,,,ulnar,ulnar,,,virtual object,horisontal; ,far-near,sraight,,,,,,,,repeated,
+случаться,1-st; 2-nd; 3-rd; 4-th,,straight,straight,,,wide,prone-neutral,space,,,,,,,,,,,repeated; symmetrical,
+вредить,1-st; 2-nd,,straight,straight,ulnar,back,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,repeated; symmetrical,
+штриховать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,tips,palm,pointed,,hand-palm,sagittal,high-low,sraight,,,,,,back,,repeated; biderectional,
+видеть,1-st,,straight,straight,tips,tips,,,head-mid,,far-near,sraight,,,,,,,,,
+ненавидеть,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,palm,wide,,space,parallel,far-near,sraight,,,,,,,,,
+вечер,"1-st, 2-nd, 3-rd, 4-th",,straight,bent,palm,palm,pointed,,hand-back,horisontal,far-near,sraight,,,,,,palm,,,
+есть,"1-st, 2-nd, 3-rd, 4-th",closed,straight,bent,tips,tips,pointed,,head-low,,far-near,sraight,,,,,,,,repeated,
+думать,1-st,,straight,straight,tips,tips,,,head-high,,far-near,sraight,,,,,,,,,
+колебаться,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,palm,pointed,,space,horisontal,high-low,sraight,,,,,,,,"repeated, symmetrical, alternating, biderectional",
+прятать,1-st; 2-nd; 3-rd; 4-th,closed,straight,bent,tips,tips,pointed,,hand-palm,horisontal,far-near,arc,,,,,,,,,
+ударять.кулаком,,,,,palm,tips,,,space,horisontal,proxi-distal; ipsi-contra,sraight,,,,,,,,,
+держать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,straight-bent,back,,wide-pointed,,space,horisontal,,,,,,,,,,symmetrical,
+обнимать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,ulnar,tips,pointed,,space,horisontal,ipsi-contra,arc,,,,,,,,symmetrical; crossed,
+игнорировать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight,bent,radial,tips,pointed; pointed-wide,,head-side,,near-far,sraight,,,,,,,,biderectional,
+нарушать,1-st; thumb,,curved,straight,radial,tips,,,hand-classifier; space,horisontal,distal-proxi,arc,,,,,,,,symmetrical; tense,
+выполнять,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,tips,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,,
+улучшать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,radial,back,pointed,,hand-palm,sagittal,low-high,sraight,,,,,,back,,laceration,
+включать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight,bent,back,tips,wide-pointed,,hand-palm,parallel,high-low,arc,,,,,,,,,
+"включать, инкорпорировать",1-st; 2-nd; 3-rd; 4-th,open-closed,straight,bent,back,tips,pointed,,hand-palm,sagittal,high-low,arc,,,,,,,,,
+увеличивать,thumb; 4-th,,straight,straight,palm,ulnar,,,space,horisontal,proxi-distal; contra-ipsi,,,,,,,,,symmetrical,
+вскружить голову,1-st,,straight,straight,tips,tips,,,head-high,,ipsi-contra,circle-counterclock,,,,,,,,repeated,
+"наводнять, наполнять",1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,tips,wide,,space,horisontal,ipsi-contra; proxi-distal,sraight,,,,,,,,symmetrical,
+проникать,1-st,,straight,straight,tips; radial,tips,,,head-mid; hand-palm,sagittal,far-near; far-near,sraight,,,,,,,,,
+надувать,1-st; 2-nd; 3-rd; 4-th,closed-open,curved-straight,bent-straight,palm,back,pointed-wide,,virtual object; head-low,horisontal,contra-ipsi,sraight,,,,,,,,symmetrical; crossed,
+информировать,1-st,,straight-curved,straight,tips,radial,,,head-high,horisontal,contra-ipsi; proxi-distal,arc,,,,,,,,symmetrical,
+начинать,1-st,,straight,straight,radial,tips,,,hand-palm,parallel,low-high,sraight,,,,,,,,,
+уколоть,1-st,open-closed,straight,bent,back,back,,,arm,,far-near,,,,,,,,,,
+dem,1-st,,straight,straight,tips,tips,,,arm,,far-near,sraight,,,,,,,,,
+кровь,"1-st, 2-nd, 3-rd, 4-th",,straight,bent-straight,palm,ulnar,,,arm,,proxi-distal,sraight,,,,,,,,"repeated, alternating",
+обновлять,1-st; 2-nd; 3-rd; 4-th,,curved,bent,back,tips,pointed,,hand-palm,parallel,far-near; low-high,arc,,,,,,back,,repeated,
+настаивать,1-st,,straight,straight,tips,tips,,,hand-palm,horisontal,high-low,sraight,,,,,,,,,
+проверять,1-st; thumb,,curved,straight,radial,tips,,,hand-classifier,horisontal,high-low,sraight,,,,,,,,repeated; symmetrical,
+оскорбить,1-st,,straight-curved,straight,tips,back,,,head-low,,near-far; ipsi-contra,sraight,,,,,,,,tense,
+интегрировать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,tips,wide,,space,horisontal,ipsi-contra; proxi-distal,arc,,,,,,,,symmetrical; crossed,
+вмешиваться,1-st,,straight,straight,tips; radial,tips,,,head-mid; hand-palm,sagittal,far-near; far-near,sraight,,,,,,,,,
+вмешиваться,1-st,,straight,straight,tips; radial,tips,,,head-mid; hand-palm,sagittal,far-near; far-near,sraight,,,,,,,,,
+прерывать,1-st; 2-nd,,curved,straight,tips,ulnar,wide,,hand-classifier,parallel,high-low,sraight,,,,,,,,symmetrical; tense,
+знакомить,1-st; 2-nd; 3-rd; 4-th,open,curved,straight,palm,palm,pointed,supine-prone,hand-palm,horisontal,far-near,arc,,,,,,,,symmetrical,
+переворачивать,,,straight,straight,palm,back,pointed,prone-supine,space; virtual object,horisontal,contra-ipsi,sraight,,,,,,,,,
+приглашать,1-st; 2-nd; 3-rd; 4-th,,straight,bent,ulnar,ulnar,pointed,,space,horisontal,distal-proxi,sraight,,,,,,,,repeated; symmetrical,
+"гладить, утюжить",thumb; 4-th,,straight,straight,tips,radial,,,hand-palm,horisontal,distal-proxi,sraight,,,,,,back,,biderectional,
+видеть,1-st,,straight,straight,tips,tips,,,head-mid,,far-near,sraight,,,,,,,,,
+раздражать,2-nd,closed-open,curved,,tips,tips,,,trunk,,near-far,sraight,,,,,,,,"repeated, symmetrical",
+издавать,,,,,palm,palm,,,hand-palm; space,horisontal,far-near; proxi-distal,sraight,,,,,,,,repeated; symmetrical,tips
+угрожать,1-st,,straight,straight,ulnar,tips,,,space,horisontal,proxi-distal; ipsi-contra; contra-ipsi,sraight,,,,,,,,repeated; symmetrical,
+присоединять,1-st,open,curved,straight,ulnar,tips,,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical,
+вступить,thumb; 1-st,,straight,straight,ulnar,tips,,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical,
+вибрировать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,,wide,prone-neutral,space; virtual object,horisontal,,,,,,,,,,repeated; symmetrical; alternating,
+перемешивать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,tips,ulnar,pointed,,space,horisontal,contra-ipsi,circle-clock,,,,,,,,repeated; symmetrical; alternating; crossed,
+прыгать,1-st; 2-nd,,straight-curved,straight,tips,root,wide,,hand-palm,horisontal,low-high,sraight,,,,,,back,,repeated; biderectional,
+ударить,,,,,palm,tips,,,space,horisontal,ipsi-contra,sraight,,,,,,,,tense,
+похитить,,,,,,radial,,supine-prone,space,horisontal,ipsi-contra,arc,,,,,,,,symmetrical,
+убить,,,,,radial,palm,,,hand-palm,sagittal,high-low,sraight,,,,,,,,,
+целовать,1-st; 2-nd,,straight,straight,,palm,pointed,supine-prone,head-low,,near-far,sraight,,,,,,,,,
+стоять на коленях,1-st; 2-nd,,straight-curved,straight,tips,,wide,,hand-palm,horisontal,,,,,,,,,,,
+вязать,1-st,,straight,straight,palm,,,prone-neutral,space; virtual object,horisontal,,,,,,,,,,symmetrical; crossed,
+свалить,1-st; 2-nd; 3-rd; 4-th,,straight,straight,back,back,pointed,,hand-palm,horisontal,far-near,arc,,,,,,,,,
+недоставать,1-st; 2-nd; 3-rd; 4-th,open-closed,curved,straight,tips,ulnar,pointed,,neck,,high-low,sraight,,,,,,,,tense,
+берег,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,back,root,pointed,,arm,,proxi-distal,vawe,,,,,,,,,
+корабль.плывет.к,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,tips,pointed,,"virtual object, space",horisontal,"proxi-distal, ipsi-contra, contra-ipsi",sraight,,,,,,,,symmetrical,
+продолжать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,palm,pointed,,hand-palm,horisontal,high-low; near-far,sraight,,,,,,back,,repeated,root
+уложить,1-st; 2-nd; 3-rd; 4-th,,straight,straight,back,back,pointed,,hand-palm,horisontal,far-near,arc,,,,,,,,,
+вести за собой,thumb,,straight,straight,ulnar,tips,,,space,horisontal,proxi-distal,sraight,,,,,,,,symmetrical; crossed,
+прыгать,1-st; 2-nd,,curved,straight,tips,tips,wide,,hand-palm,horisontal,near-far,arc,,,,,,,,,
+учить,1-st; 2-nd,closed,straight,bent,radial,tips,pointed,,head-high,,high-low,arc,,,,,,,,repeated,
+уезжать,1-st,open-closed,straight,bent,root,tips,,,space,horisontal,proxi-distal,arc,,,,,,,,symmetrical,
+читать лекцию,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,back,pointed,,head-low,,near-far; high-low,vawe,,,,,,,,,
+одалживать,1-st; 2-nd; 3-rd; 4-th,,straight-curved,straight-bent,tips,back,pointed,,space,horisontal,distal-proxi,sraight,,,,,,,,,
+одалживать,1-st; 2-nd; 3-rd; 4-th,,straight-curved,straight-bent,tips,back,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,,
+человек,1-st,open,curved,straight,tips,ulnar,,,space,parallel,high-low,sraight,,,,,,,,,
+человек,1-st,open,curved,straight,tips,ulnar,,,space,parallel,high-low,sraight,,,,,,,,,
+связь,1-st,,curved,straight,palm,palm,,supine-prone,hand-classifier,horisontal,far-near,arc,,,,,,,,"symmetrical, crossed",
+лгать,1-st; 4-th,,straight,straight,palm,tips,,,hand-back,horisontal,proxi-distal,sraight,,,,,,,,repeated; symmetrical,
+лежать,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,palm,pointed,,hand-palm,horisontal,far-near,sraight,,,,,,,,,
+приподнять,1-st; 2-nd; 3-rd; 4-th,open-closed,straight,bent,back,palm,pointed,,space,horisontal,low-high,sraight,,,,,,,,symmetrical,
+нравиться,1-st,closed,curved,straight,tips,tips,,,head-low,,far-near,sraight,,,,,,,,,
+хромать,1-st,,straight,straight,tips,tips,,,space,horisontal,high-low; iconic,sraight,,,,,,,,repeated; symmetrical; alternating,
+слушать,1-st; 2-nd; 3-rd; 4-th,open,curved,straight,radial,radial,pointed,,head-side,,far-near,sraight,,,,,,,,repeated,
+жить,1-st; 3-rd; 4-th; 2-nd,,straight,bent,ulnar,ulnar,pointed,,trunk,,far-near,sraight,,,,,,,,repeated; symmetrical,
+ненавидеть,1-st; 2-nd,,curved,straight,tips,ulnar,wide,,head-mid,,ipsi-contra,sraight,,,,,,,,repeated,
+видеть,1-st,,straight,straight,tips,tips,,,head-mid,,far-near,sraight,,,,,,,,,
+ненавидеть,"1-st, 2-nd, 3-rd, 4-th",,straight,straight,palm,palm,wide,,space,parallel,proxi-distal,sraight,,,,,,,,,
+запирать,1-st; thumb,,curved,straight,,tips,,supine-neutral,hand-palm,sagittal,high-low,arc,,,,,,back,,tense,
+глядеть,1-st; 2-nd,,straight,straight,palm,tips,wide,,space,horisontal,proxi-distal,sraight,,,,,,,,,
+смотреть,"1-st, 2-nd",,straight,straight,palm,back,wide,,head-mid,,near-far,sraight,,,,,,,,,
+туда,1-st,,straight,straight,tips,tips,,,space,horisontal,x-y,sraight,,,,,,,,,
+искать,1-st; 2-nd,,curved,straight,tips,tips,wide,,virtual object; space,horisontal,far-near; high-low,arc,,,,,,,,repeated; symmetrical; alternating,
+исчезнуть,1-st; 2-nd,,straight,straight,palm,ulnar,pointed,,hand-narrow,sagittal,proxi-distal,sraight,,,,,,,,symmetrical,
+любить,1-st; 2-nd; 3-rd; 4-th,,straight,straight,palm,ulnar,pointed,,head-low; trunk,,high-low,arc,,,,,,,,,
+опустить,1-st; 2-nd; 3-rd; 4-th,,straight,bent,palm,root,pointed,,space,parallel,high-low,sraight,,,,,,,,symmetrical,
+видеть,1-st,,straight,straight,tips,tips,,,head-mid,,far-near,sraight,,,,,,,,,
+соблазнять,"1-st, 2-nd, 3-rd, 4-th",,straight,bent-straight,root,palm,wide,,space,horisontal,distal-proxi,sraight,,,,,,,,"repeated, symmetrical, alternating",
+поддерживать,1-st; 2-nd; 3-rd; 4-th,open-closed,straight-curved,straight-bent,back,palm,wide-pointed,,space,horisontal,low-high,spiral,,,,,,,,symmetrical,
+целоваться,,,,,palm,ulnar,,,hand-classifier,sagittal,in situ,circle-clock,,,,,,palm,,symmetrical; alternating,
+управлять,thumb; 1-st,,curved,straight,ulnar,tips,pointed,,space,horisontal,proxi-distal,sraight,,,,,,,,repeated; symmetrical; alternating; biderectional,
+жениться,1-st,closed,curved,straight,tips,radial,,,hand-back,horisontal,distal-proxi,sraight,,,,,,,,,
+подходить,1-st,,straight,straight,back,tips,,,space,parallel,high-low; low-high,sraight,,,,,,,,symmetrical; crossed,
+измерять,1-st,closed,curved,straight,radial,ulnar,,,hand-classifier,horisontal,near-far,vawe,,,,,,,,symmetrical; laceration,
+встречаться,1-st,,straight,straight,root,palm,,,space,horisontal,ipsi-contra,sraight,,,,,,,,symmetrical,
+думать,1-st,,straight,straight,tips,tips,,,head-high,,far-near,sraight,,,,,,,,,
+запоминать,,,,,,,,"prone-neutral, supine-neutral",space,,,,,,,,,,,"symmetrical, crossed",
