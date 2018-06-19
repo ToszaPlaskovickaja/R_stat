@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-05-18T20:44:11+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-06-17T14:22:46+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/SignAnnotation/6452--тянуть--тянуть.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../6452--тянуть--тянуть.mp4"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/SignAnnotation/6452--тянуть--тянуть.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../6452--тянуть--тянуть.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5a676e70-ad22-4e96-a41c-d80009d493ce</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">10</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">12</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="320"/>
@@ -22,7 +22,12 @@
     <TIER LINGUISTIC_TYPE_REF="BentFC" PARENT_REF="Sign" TIER_ID="H1 Bent"/>
     <TIER LINGUISTIC_TYPE_REF="Orientation" PARENT_REF="Sign" TIER_ID="H1 Facing">
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1" CVE_REF="cveid3">
+            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1" CVE_REF="cveid0">
+                <ANNOTATION_VALUE>tips</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a1" CVE_REF="cveid3" PREVIOUS_ANNOTATION="a2">
                 <ANNOTATION_VALUE>back</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -33,17 +38,17 @@
                 <ANNOTATION_VALUE>radial</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a1" CVE_REF="cveid5" PREVIOUS_ANNOTATION="a3">
-                <ANNOTATION_VALUE>ulnar</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="WidthFC" PARENT_REF="Sign" TIER_ID="H1 Width"/>
     <TIER LINGUISTIC_TYPE_REF="DynamicOrientation" PARENT_REF="Sign" TIER_ID="Dynamic Orientation"/>
     <TIER LINGUISTIC_TYPE_REF="Location" PARENT_REF="Sign" TIER_ID="Location">
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5" ANNOTATION_REF="a1" CVE_REF="cveid12">
+            <REF_ANNOTATION ANNOTATION_ID="a5" ANNOTATION_REF="a1" CVE_REF="cveid13">
+                <ANNOTATION_VALUE>virtual object</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a1" CVE_REF="cveid12" PREVIOUS_ANNOTATION="a5">
                 <ANNOTATION_VALUE>space</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -106,6 +111,33 @@
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
     <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Plane">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE LANG_REF="und">parallel</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE LANG_REF="und">horisontal</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE LANG_REF="und">sagittal</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="BentFC">
+        <DESCRIPTION LANG_REF="und">Finger configuration Bent</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE LANG_REF="und">straight</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE LANG_REF="und">bent</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE LANG_REF="und">straight-bent</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE LANG_REF="und">bent-straight</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="WidthFC">
         <DESCRIPTION LANG_REF="und">Finger configuration Width</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid0">
@@ -130,33 +162,6 @@
             <CVE_VALUE LANG_REF="und">crossed-wide</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="BentFC">
-        <DESCRIPTION LANG_REF="und">Finger configuration Bent</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid0">
-            <CVE_VALUE LANG_REF="und">straight</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid1">
-            <CVE_VALUE LANG_REF="und">bent</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid2">
-            <CVE_VALUE LANG_REF="und">straight-bent</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid3">
-            <CVE_VALUE LANG_REF="und">bent-straight</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="Plane">
-        <DESCRIPTION LANG_REF="und"/>
-        <CV_ENTRY_ML CVE_ID="cveid0">
-            <CVE_VALUE LANG_REF="und">parallel</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid1">
-            <CVE_VALUE LANG_REF="und">horisontal</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid2">
-            <CVE_VALUE LANG_REF="und">sagittal</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="Orientation">
         <DESCRIPTION LANG_REF="und">Relative orientation</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid0">
@@ -176,6 +181,21 @@
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid5">
             <CVE_VALUE LANG_REF="und">ulnar</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="ApertureFC">
+        <DESCRIPTION LANG_REF="und">Finger configuration Aperture</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE LANG_REF="und">open</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE LANG_REF="und">closed</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE LANG_REF="und">open-closed</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE LANG_REF="und">closed-open</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="Settings">
@@ -211,21 +231,6 @@
             <CVE_VALUE LANG_REF="und">iconic</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="ApertureFC">
-        <DESCRIPTION LANG_REF="und">Finger configuration Aperture</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid0">
-            <CVE_VALUE LANG_REF="und">open</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid1">
-            <CVE_VALUE LANG_REF="und">closed</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid2">
-            <CVE_VALUE LANG_REF="und">open-closed</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid3">
-            <CVE_VALUE LANG_REF="und">closed-open</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="DynamicOrientation">
         <DESCRIPTION LANG_REF="und">rotation of the hand</DESCRIPTION>
         <CV_ENTRY_ML CVE_ID="cveid0">
@@ -254,30 +259,6 @@
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid8">
             <CVE_VALUE LANG_REF="und">prone-neutral</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="Manner">
-        <DESCRIPTION LANG_REF="und"/>
-        <CV_ENTRY_ML CVE_ID="cveid0">
-            <CVE_VALUE LANG_REF="und">tense</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid1">
-            <CVE_VALUE LANG_REF="und">repeated</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid2">
-            <CVE_VALUE LANG_REF="und">symmetrical</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid3">
-            <CVE_VALUE LANG_REF="und">alternating</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid4">
-            <CVE_VALUE LANG_REF="und">biderectional</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid5">
-            <CVE_VALUE LANG_REF="und">crossed</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid6">
-            <CVE_VALUE LANG_REF="und">laceration</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="Location">
@@ -325,6 +306,30 @@
             <CVE_VALUE LANG_REF="und">virtual object</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Manner">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE LANG_REF="und">tense</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE LANG_REF="und">repeated</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE LANG_REF="und">symmetrical</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE LANG_REF="und">alternating</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid4">
+            <CVE_VALUE LANG_REF="und">biderectional</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid5">
+            <CVE_VALUE LANG_REF="und">crossed</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid6">
+            <CVE_VALUE LANG_REF="und">laceration</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="FingerSelection">
         <DESCRIPTION LANG_REF="und"/>
         <CV_ENTRY_ML CVE_ID="cveid0">
@@ -341,21 +346,6 @@
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid4">
             <CVE_VALUE DESCRIPTION="pinky" LANG_REF="und">4-th</CVE_VALUE>
-        </CV_ENTRY_ML>
-    </CONTROLLED_VOCABULARY>
-    <CONTROLLED_VOCABULARY CV_ID="CurveFC">
-        <DESCRIPTION LANG_REF="und">Finger configuration Curve</DESCRIPTION>
-        <CV_ENTRY_ML CVE_ID="cveid0">
-            <CVE_VALUE LANG_REF="und">straight</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid1">
-            <CVE_VALUE LANG_REF="und">curved</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid2">
-            <CVE_VALUE LANG_REF="und">straight-curved</CVE_VALUE>
-        </CV_ENTRY_ML>
-        <CV_ENTRY_ML CVE_ID="cveid3">
-            <CVE_VALUE LANG_REF="und">curved-straight</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
     <CONTROLLED_VOCABULARY CV_ID="Path">
@@ -380,6 +370,21 @@
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid6">
             <CVE_VALUE LANG_REF="und">spiral</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="CurveFC">
+        <DESCRIPTION LANG_REF="und">Finger configuration Curve</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid0">
+            <CVE_VALUE LANG_REF="und">straight</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid1">
+            <CVE_VALUE LANG_REF="und">curved</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid2">
+            <CVE_VALUE LANG_REF="und">straight-curved</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid3">
+            <CVE_VALUE LANG_REF="und">curved-straight</CVE_VALUE>
         </CV_ENTRY_ML>
     </CONTROLLED_VOCABULARY>
 </ANNOTATION_DOCUMENT>
