@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-05-22T03:24:31+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-06-18T21:07:18+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/SignAnnotation/9902--запоминать, учить наизусть--MVI_0959.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../9902--запоминать, учить наизусть--MVI_0959.mp4"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/SignAnnotation/9902--запоминать, учить наизусть--MVI_0959.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../9902--запоминать, учить наизусть--MVI_0959.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a4a6cfc1-c06a-4e72-b68a-393a3c8f5254</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">17</PROPERTY>
     </HEADER>
@@ -51,11 +51,6 @@
                 <ANNOTATION_VALUE>tips</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a2" CVE_REF="cveid2">
-                <ANNOTATION_VALUE>palm</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="Orientation" PARENT_REF="Sign" TIER_ID="H1 Focus">
         <ANNOTATION>
@@ -71,11 +66,6 @@
                 <ANNOTATION_VALUE>prone-neutral</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a2" CVE_REF="cveid6" PREVIOUS_ANNOTATION="a12">
-                <ANNOTATION_VALUE>supine-neutral</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="Location" PARENT_REF="Sign" TIER_ID="Location">
         <ANNOTATION>
@@ -89,13 +79,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="Plane" PARENT_REF="Sign" TIER_ID="Plane">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a2" CVE_REF="cveid1">
-                <ANNOTATION_VALUE>horisontal</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Plane" PARENT_REF="Sign" TIER_ID="Plane"/>
     <TIER LINGUISTIC_TYPE_REF="Settings" PARENT_REF="Sign" TIER_ID="Settings">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a1" CVE_REF="cveid8">
