@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-05-18T02:04:52+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-06-17T14:17:37+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/SignAnnotation/4924--чистить--чистить.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../4924--чистить--чистить.mp4"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/SignAnnotation/4924--чистить--чистить.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../4924--чистить--чистить.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8cfa3b59-8c4a-4da0-bf7e-3a302e6faaf4</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">17</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">18</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="320"/>
@@ -66,11 +66,6 @@
                 <ANNOTATION_VALUE>ulnar</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a1" CVE_REF="cveid4" PREVIOUS_ANNOTATION="a15">
-                <ANNOTATION_VALUE>radial</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="WidthFC" PARENT_REF="Sign" TIER_ID="H1 Width">
         <ANNOTATION>
@@ -113,7 +108,13 @@
     <TIER LINGUISTIC_TYPE_REF="CurveFC" PARENT_REF="Sign" TIER_ID="H2 Curve"/>
     <TIER LINGUISTIC_TYPE_REF="BentFC" PARENT_REF="Sign" TIER_ID="H2 Bent"/>
     <TIER LINGUISTIC_TYPE_REF="WidthFC" PARENT_REF="Sign" TIER_ID="H2 Width"/>
-    <TIER LINGUISTIC_TYPE_REF="Orientation" PARENT_REF="Sign" TIER_ID="H2 Facing"/>
+    <TIER LINGUISTIC_TYPE_REF="Orientation" PARENT_REF="Sign" TIER_ID="H2 Facing">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a1" CVE_REF="cveid3">
+                <ANNOTATION_VALUE>back</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER LINGUISTIC_TYPE_REF="Orientation" PARENT_REF="Sign" TIER_ID="H2 Focus"/>
     <TIER LINGUISTIC_TYPE_REF="Manner" PARENT_REF="Sign" TIER_ID="Manner">
         <ANNOTATION>
