@@ -1,0 +1,277 @@
+---
+title: "Relationship between distinctive phonological features in Russian sign language"
+output: html_document
+---
+Alena Blinova
+
+Antonina Plaskovitskaya
+
+We analyse data on the signs for verbs in the Russian sign language. There are 436 observations, each signifying a specific sign. Signs are described according to 13 aspects:
+- finger selection - the fingers that take part in the shape or movement;
+- aperture - the position of the thumb against the other selected fingers, both static and dynamic;
+- curve - the way fingers are bent in distal joints, both static and dynamic;
+- bent - the way fingers are bent in proximal joints, both static and dynamic;
+- facing orientation - orientation of the hand towards the place where the sign takes place;
+- focus orientation - orientation of the hand along the direction of movement;
+- width - distance between selected fingers, both static and dynamic;
+- dynamic orientation - turn or bend of the wrist;
+- location - point where the sign takes place;
+- plane - plane in which the sign takes places;
+- settings - start and end points of the movement trajectory;
+- path - form of the movement trajectory;
+- manner - aspects of the sign modifying other factors.
+
+All the variable within the dataseet are categorical: the values are nominal and cannot be ordered in a sensible way. Therefore, we are limited with the choice of analysis methods to correspondence analysis, multiple correspondence analysis, chi-square, and Fisher's exact test.
+
+The summary for frequencies of parameter values looks as follows:
+```{r, echo=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(vcd)
+encoding = "UTF-8"
+dict_output = read.csv("/Users/mac/Yandex.Disk.localized/Учёба/ВШЭ/Лингвистическая теория и описание языка/Data Analysis/Проект/dict_output_new2.csv", fileEncoding="latin1")
+summary(dict_output[,-1])
+```
+
+There are many values marked as absent. The reason for this is that, for many signs, some categories are present, and then they get corresponding meanings. Some, in turn, are not, e.g. no fingers are selected, and an absence of category marker for the specific sign can be seen as a separate value in itself.
+
+We focus mainly on the aspects belonging to the node Active Articulator (https://docs.google.com/document/d/1Kd5qAFEwhJ4ZB7Dh96kfyTa_w4tjFekHgutL1_K1PUg/edit, Plaskovitskaya 2018). This scheme is derived from dependency model introduced by Els van der Kooij (2002). We expect to discover dependencies within this node, especially between items of different levels; however, we do not expect to exclude all dependent nodes. Our expectation is that some parameters within a sign (e.g. its aperture) may be connected with some other parameters (e.g. focus orientation); the direction of this relationship, if any, is not clear. However, general linguistic considerations suggest that the dependent nodes are influenced by the top ones - in this case, orientation depends on the aperture which is included in the top hand configuration node. Therefore, the hypotheses to be tested are those regarding interdependence; the actual factors analysed out of the given 13 are to be defined below.
+
+In order to explore the data, we use correspondence analysis. It helps to discover the systematic patterns of variations with categorical data which we have here.
+It looks the following way for Curve and Bent:
+```{r, }
+library(FactoMineR)
+
+curve_bent_data = dict_output[, c(4, 5)]
+CB.contingency_table = table(curve_bent_data$H1.Curve, curve_bent_data$H1.Bent)
+CB.res.ca = CA(CB.contingency_table, graph=FALSE)
+summary(CB.res.ca)
+```
+
+Looking at the data, we see that the first two dimensions reflect nearly all inertia; therefore, three dimensions are enough. What is more, basically two values per dimension explain the majority of the variation. Therefore, we first plot the first two dimensions:
+```{r, echo=FALSE}
+plot(CB.res.ca, selectRow = "contrib 2", selectCol = "contrib 2")
+```
+
+and then the second and the third:
+
+```{r, echo=FALSE}
+plot(CB.res.ca, selectRow = "contrib 3", selectCol = "contrib 3", axes = c(2,3))
+```
+
+Next, we plot the points that are best represented in the new space:
+```{r, echo=FALSE}
+plot(CB.res.ca, selectRow = "cos2 0.7", selectCol = "cos2 0.7")
+plot(CB.res.ca, selectRow = "cos2 0.7", selectCol = "cos2 0.7", axes = c(2,3))
+```
+
+We see that all the columns are correlated for the two variables, Curve and Bent, therefore, we can retain only one of the two for further analysis (for particular calues, there is high probability that they are phonetical variations of each other). As Curve, in opposition to Bent, differs between bent and straight static positions, it is better to keep Curve (rather than Bent) in the phonological model.
+
+In order to test once more the hypothesis that Curve and Bent are correlated, we apply Fisher's Exact Test (as chi-square test indicates it may give wrong results): 
+```{r}
+#H1.Bent~H1.Curve
+new_table10=table(dict_output$H1.Bent, dict_output$H1.Curve)
+chisq.test(new_table10)
+
+fisher.test(CB.contingency_table, simulate.p.value = TRUE)
+
+assocstats(CB.contingency_table)
+```
+
+Fisher's Exact Test proves that this association is indeed statistically significant since p-value < 2.2e-16. Effect size is rather large (Cramer's V = 0.551). This proves the conclusions made before.
+
+Next variables to be analysed are Curve and Aperture. While previous observations show that Curve and Bent are correlated, we first map Curve and Aperture against each other:
+```{r}
+curve_aperture_data  <- dict_output[, c(3, 4)]
+CA.contingency_table <- table(curve_aperture_data$H1.Aperture, curve_aperture_data$H1.Curve)
+CA.res.ca =  CA(CA.contingency_table)
+```
+
+Afterwards, we add Bent into the picture. Correlation is again visible:
+```{r}
+curve_bent_aperture_data <- dict_output[, c(3, 4, 5)]
+BA.contingency_table <- table(curve_aperture_data$H1.Aperture, curve_bent_data$H1.Bent)
+CBA.contingency_table <- cbind(CA.contingency_table, BA.contingency_table)
+CBA.res.ca = CA(CBA.contingency_table, col.sup=6:ncol(CBA.contingency_table))
+```
+
+Here, the top node Finger Selection is plotted against its dependent nodes under the within the category of hand configuration: Aperture, Curve, and Width. Some correlation is expected between the top node and its dependents.
+```{r}
+fing.sel_aperture_data <- dict_output[, c(2, 3)]
+FA.contingency_table <- table(fing.sel_aperture_data$H1.FingerSelection, fing.sel_aperture_data$H1.Aperture)
+FA.res.ca =  CA(FA.contingency_table, graph=FALSE)
+FA.contingency_table
+
+fing.sel_curve_data <- dict_output[, c(2, 4)]
+FC.contingency_table <- table(fing.sel_curve_data$H1.FingerSelection, fing.sel_curve_data$H1.Curve)
+FC.res.ca =  CA(FC.contingency_table, graph=FALSE)
+FC.contingency_table
+
+fing.sel_width_data <- dict_output[, c(2, 8)]
+FW.contingency_table <- table(fing.sel_width_data$H1.FingerSelection, fing.sel_width_data$H1.Width)
+FW.res.ca =  CA(FW.contingency_table, graph=FALSE)
+FW.contingency_table
+```
+
+Multiple correspondence analysis is carried out for hand configuration factors.
+```{r}
+hand.configuration_data <- dict_output[, c(2, 3, 4, 8)]
+cats = apply(hand.configuration_data, 2, function(x) nlevels(as.factor(x)))
+HCmca = MCA(hand.configuration_data, graph = FALSE)
+HCeig <- HCmca$eig
+
+library("corrplot")
+hand.configuration_data <- dict_output[, c(2, 3, 4, 8)]
+HCmca = MCA(hand.configuration_data, graph = FALSE, method = "burt")
+summary(HCmca)
+corrplot(HCmca$var$contrib, is.corr = FALSE)
+plot(HCmca, invisible = c("ind"), cex=.8, selectMod = "contrib 10")
+plot(HCmca, invisible = c("ind"), cex=.8, selectMod = "cos2 10")
+```
+
+Finger Selection seems to be correlated with Curve and Width, but not with Aperture. Therefore, we carry out Fisher's Tests:
+```{r}
+#FinSel~Aperture
+fisher.test(FA.contingency_table, simulate.p.value = TRUE)
+
+#FinSel~Curve
+fisher.test(FC.contingency_table, simulate.p.value = TRUE)
+assocstats(FC.contingency_table)
+
+#FinSel~Width
+fisher.test(FW.contingency_table, simulate.p.value = TRUE)
+assocstats(FW.contingency_table)
+```
+
+Tests support our hypotheses: indeed, for Finger Selection and Aperture, the null hypothesis postulating absence of relationship cannot be rejected since p-value is greater than 0.001. The other two pairs show some correlation, and the effect is quite strong (Cramer's V equalling 0.453 and 0.463) in both cases.
+
+Analysing Finger Selection even more, we come to unexpected (yet explainable from the theoretical point of view) conclusions. Here, the first two dimensions reflect most of the variation:
+```{r, echo=FALSE}
+summary(FC.res.ca)
+plot(FC.res.ca, selectRow = "contrib 2", selectCol = "contrib 2")
+plot(FC.res.ca, selectRow = "contrib 2", selectCol = "contrib 2", axes = c(2,3))
+```
+
+The most notable evidence here is that absence of fingers selected is correlated with absence of a curve, and all fingers selected are connected with a straight hand (incidentally yielding an open palm which is a common sign in sign languages).
+
+Looking at the points best located in the new space presents us with the following plots:
+```{r, echo=FALSE}
+plot(FC.res.ca, selectRow = "cos2 0.7", selectCol = "cos2 0.7", cex=0.7)
+plot(FC.res.ca, selectRow = "cos2 0.7", selectCol = "cos2 0.7", axes = c(2,3))
+```
+
+The observations made before are supported. What is more, relationship is observed between the presence of a curve and the selection of a single third (middle) finger. The reason for this may be the taboo nature of showing a straight middle finger; this way, it can be the only finger selected only when it is curved.
+
+Finger Selection and Width have the first two dimensions contribute 97.1% to the inertia:
+```{r}
+summary(FW.res.ca)
+```
+
+```{r, echo=FALSE}
+plot(FW.res.ca, selectRow = "contrib 3", selectCol = "contrib 3")
+```
+
+Wide and pointed values of width are juxtaposed and contribute quite a lot of the inertia along the second dimension.
+
+The choice of one finger or fingers that are not next to each other is correlated with the absence of Width. The selection of all fingers is connected to the pointed (neutral) Width, meaning that all fingers tend to be pushed towards each other rather than open like a fan. The value "wide", in turn, is common for selection of the thumb and index finger which are often put far apart:
+```{r, echo=FALSE}
+plot(FW.res.ca, selectRow = "cos2 0.7", selectCol = "cos2 0.7")
+```
+
+Next, correspondence between Focus Orientation and Facing Orientation is presented:
+```{r}
+facing_focus_data <- dict_output[, c(6, 7)]
+FF.contingency_table <- table(facing_focus_data$H1.Facing, facing_focus_data$H1.Focus)
+FF.res.ca =  CA(FF.contingency_table)
+```
+
+The following calculations plot three variables related to orientation - Focus, Facing and Dynamic Orientation - against each other. Facing shows stronger correlation; in the third map, Focus is mapped over Dynamic and Facing.
+```{r}
+orientation_focus_data <- dict_output[, c(7, 9)]
+OF1.contingency_table <- table(orientation_focus_data$Dynamic.Orientation, orientation_focus_data$H1.Focus)
+OF1.res.ca =  CA(OF1.contingency_table)
+
+orientation_facing_data <- dict_output[, c(6, 9)]
+OF2.contingency_table <- table(orientation_facing_data$Dynamic.Orientation, orientation_facing_data$H1.Facing)
+OF2.res.ca =  CA(OF2.contingency_table)
+
+OFF.contingency_table <- cbind(OF2.contingency_table, OF1.contingency_table)
+OFF.res.ca = CA(OFF.contingency_table, col.sup=8:ncol(OFF.contingency_table))
+```
+
+Multiple correspondence analysis for the bunch of orientation-related nodes yields the following results:
+```{r}
+orientation_data <- dict_output[, c(6, 7, 9)]
+OFFmca = MCA(orientation_data, graph = FALSE, method = "burt")
+summary(OFFmca)
+corrplot(OFFmca$var$contrib, is.corr = FALSE)
+plot(OFFmca, invisible = c("ind"), cex=.8, selectMod = "contrib 10")
+plot(OFFmca, invisible = c("ind"), cex=.8, selectMod = "cos2 10")
+```
+
+A possible conclusion here would be that dynamic orientations are often clustered around the extremes. Checking our initial expectation, we apply Fisher's Exact Test to the pair of Facing and Dynamic Orientation:
+```{r}
+fisher.test(OF2.contingency_table, simulate.p.value = TRUE)
+assocstats(OF2.contingency_table)
+```
+
+Some correlation is present (p-value is below the threshold 0.001), yet, the effect size is small (Cramer's V = 0.282).
+
+Aperture and Focus show some slight correlation; however, values of both variables are spread rather evenly across the quarters:
+```{r}
+aperture_focus_data <- dict_output[, c(3, 7)]
+AP.contingency_table <- table(aperture_focus_data$H1.Aperture, aperture_focus_data$H1.Focus)
+AP.res.ca = CA(AP.contingency_table)
+```
+
+The plot for Curve and Focus correspondence analysis looks similarly evenly spread:
+```{r}
+curve_focus_data <- dict_output[, c(4, 7)]
+CF.contingency_table <- table(curve_focus_data$H1.Curve, curve_focus_data$H1.Focus)
+CF.res.ca = CA(CF.contingency_table)
+```
+
+Finally, MCA is performed for Aperture, Curve, and Focus. Aperture and Curve show strong correlation:
+```{r}
+hand.configuration_focus_data <- dict_output[, c(3, 4, 7)]
+HCFmca = MCA(hand.configuration_focus_data, graph = FALSE, method = "burt")
+summary(HCFmca)
+corrplot(HCFmca$var$contrib, is.corr = FALSE)
+plot(HCFmca, invisible = c("ind"), cex=.8, selectMod = "contrib 10")
+plot(HCFmca, invisible = c("ind"), cex=.8, selectMod = "cos2 10")
+```
+
+This leads to testing the null hypothesis defying any relationship between the two values using Fisher's Exact Test (again, chi-square is not recommended):
+```{r}
+fisher.test(CA.contingency_table, simulate.p.value = TRUE)
+
+assocstats(CA.contingency_table)
+```
+
+As we expected, the association proves significant and the null hypothesis is rejected since p-value is below 0.001. The effect size is again considerable (Cramer's V = 0.498).
+
+We again look at the data in more detail now:
+```{r}
+summary(CA.res.ca)
+plot(CA.res.ca, selectRow = "contrib 3", selectCol = "contrib 3")
+plot(CA.res.ca, selectRow = "contrib 3", selectCol = "contrib 3", axes = c(2,3))
+```
+
+Three dimensions contribute 99.9% to the inertia. Dynamic and static positions for both variables are opposed to each other, as are two static apertures - with or without a curve.
+
+```{r}
+plot(CA.res.ca, selectRow = "cos2 0.7", selectCol = "cos2 0.7")
+plot(CA.res.ca, selectRow = "cos2 0.7", selectCol = "cos2 0.7", axes = c(2,3))
+```
+
+Again, absence of Curve is close to neutral (value "straight") - it may be assumed that the sign do not discern between the two, especially if the aperture is absent. What is more, closed Aperture is correlated with the value "curved" of Curve; therefore, the closed Aperture can be marked as straight, and "curved" can be seen as a neutral value. "Curved-straight" can be seen as a phonetic effect of closing an aperture.
+
+Having performed various analyses and explored the data at hand, we have come to the following conclusions:
+
+1) Nodes seem to be correlated within categories, and the relationship is observed between the top node and its dependents. An example is Finger Selection and Curve. Statistics do not show the direction of the relationship explicitly; however,theoretical linguistic evidence suggests that finger selection defines the curve observed in a sign. This supports the claim made by Plaskovitskaya (2018) in her course paper.
+
+2) Curve and Bent are strongly correlated, therefore, one of the two factors can be dropped. Curve is more udeful in future analysis as it distinguishes between bent and straight static positions.
+
+3) Finger Selection is correlated with Curve and Width. A notable conslusion here is the absence of a straight middle finger as the only finger selected for the sign, presumably because of its obscene connotations. Another conclusion is that, when all fingers are selected, they are normally kept close to each other; however, if only the thumb and index finger are shown, they are put further apart.
+
+4) Curve and Aperture are correlated. Here, "curved-straight" movement of the Curve can be treated as a phonetic effect of closing the aperture. Also, the proximity of "straight" and "absent" values of the Curve may lead to combining the two into one value.
